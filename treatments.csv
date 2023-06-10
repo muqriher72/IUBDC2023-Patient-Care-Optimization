@@ -1,0 +1,784 @@
+patient_id,current_treatments
+211,10% Dextrose fluids
+211,Albuterol
+211,Antivert
+211,Baclofen
+211,Benadryl
+211,Cellcept
+211,Coenzyme Q10 (Coq10)
+211,Cogentin
+211,Concerta
+211,Depakote
+211,Dietary restrictions (reduced protein intake and increased sugar consumption)
+211,Fluid infusion
+211,G-tube for nutrition
+211,Intravenous immunoglobulin (IVIG)
+211,Lactulose
+211,Leucovorin
+211,Levothyroxine
+211,Magnesium/riboflavin
+211,Midazolam
+211,Nitroglycerine ointment
+211,Physical therapy
+211,Plasmapheresis
+211,Prednisone
+211,Prozac
+211,Rituximab
+211,Singulair
+211,Zofran
+210,Adrenocorticotropic hormone injection
+210,Feeding therapy
+210,Miralax
+210,Nexium
+210,Occupational therapy
+210,Periactin
+210,Physical therapy
+210,Speech therapy
+210,Vision therapy
+210,Vitamin D
+209,Carnitine
+208,N/A
+207,Ankle foot orthotic
+207,Auto CPAP machine
+207,Cane
+206,Low dose Aspirin
+206,Physical therapy
+206,Propranolol
+206,Testosterone replacement
+206,Total parenteral nutrition (TPN)
+205,Growth hormones
+205,Physical therapy
+205,Prescription glasses
+205,Speech evaluations
+204,Aspirin
+204,Atorvastatin
+204,Hydrochlorothiazide
+204,Lisinopril
+204,Metformin
+204,Metoprolol
+203,Hearing aids
+203,MiraLAX
+203,Physical therapy
+203,Senna
+203,Carvedilol
+203,Enalapril
+203,Keppra
+202,Feeding therapy
+202,Lactulose
+202,Miralax
+201,Ankle-foot orthosis
+201,Balancewear vest
+201,Botox
+201,Dynamic Movement orthotic
+201,"Physical, occupational, and speech therapies"
+200,Bladder stimulator
+200,Botox injections
+200,Flecainide
+200,IV fluids
+200,Midodrine (hypotension)
+200,Prucalopride
+199,Amitriptyline
+199,Aspirin
+199,Bipap
+199,Budesonide
+199,Cetrizine
+199,Cholecalciferol
+199,Clonidine
+199,CoQ10
+199,Diazepam
+199,Dicyclomine
+199,Famotidine
+199,Fludrocortisone
+199,Fluticasone
+199,GJ-tube
+199,IV iron sucrose
+199,Levocarnitine
+199,Losartan
+199,Lyrica
+199,Melatonin
+199,Multivitamin
+199,N-Acetyl Cysteine
+199,Nexium
+199,Pedialyte
+199,Pregabalin
+199,Pressure Equalization (PE) tubes
+199,Pulmicort
+199,Oxycodone
+199,Riboflavin
+199,Senna
+199,Simethicone
+199,Sodium chloride
+199,Total parenteral nutrition (TPN)
+199,Vest treatment
+199,Vitamin D3
+199,Zofran
+198,Coenzyme Q10
+198,Levodopa-carbidopa
+198,Occupational therapy
+198,Physical therapy
+198,Rotigotine
+198,Speech therapy
+198,Vitamin B complex
+198,Vitamin D3
+197,Ex-lax
+197,Pelvic floor physical therapy exercises
+196,N/A
+195,Adderall
+195,Keppra
+195,Melatonin
+195,Multivitamin
+195,Triamcinolone
+194,Diazepam
+194,Glycerin suppository
+194,Hyoscyamine
+194,Klonopin
+194,Lidocaine cream
+194,Topamax
+194,Trilleptal
+193,Albuterol
+193,ProAir inhaler
+193,Alclometasone
+193,Azelastine
+193,Aprepitant
+193,Bisacodyl
+193,Bryhali
+193,Budesonide
+193,Cetirizine
+193,Cholecalciferol
+193,Citalopram
+193,Clindamycin
+193,Clobetasol
+193,Desmopressin
+193,DDAVP Nasal Spray
+193,Elidel
+193,Esomeprazole
+193,Eucrisa
+193,Fludrocortisone
+193,Fluticasone proprionate
+193,Hydrocortisone
+193,IVIG infusions
+193,Karbinal ER
+193,Ketoconazole
+193,Levetiracetam
+193,Methylphenidate HCl
+193,Montelukast
+193,Mupirocin
+193,Pimecrolimus
+193,Polyethyline glycol
+193,Pramipexole
+193,Senna
+193,Triamcinolone
+193,Urea
+192,Seizure medications (oxcarbazepine and zonisamide)
+192,Thyroxine hormone therapy
+191,Prednisolone
+191,hydroxychloroquine
+191,meloxicam
+191,Xeljanz
+191,leflunomide
+191,"Oxcarbazepine, "
+191,guanfacine
+191,"Ursodiol, bethanechol"
+191,Aspirin
+191,Prevacid
+191,Norditropin
+191,Caltrate
+191,Culturelle
+191,Multivitamin + Vitamin C
+191,Zyrtec
+190,Pamidronate
+189,N/A
+188,"Cannabidoil, ketogenic diet, clonazepam, and perampanel"
+188,"Dulcolax, milk of magnesia"
+188,Albuterol
+188,Vitamin D3
+188,Melatonin
+187,Keppra
+187,Multivitamin
+186,Clindamycin
+186,Cyproheptadine
+186,"Ranitidine, esomeprazole magnesium, Nexium"
+186,SMO orthotic braces
+186,Sulfatrim
+186,"Travaprost, Cosopt"
+186,Triamcinolone acetonide
+186,Vitamin D3
+185,Acarbose
+185,Midodrine
+184,N/A
+183,Adderall
+183,IVIG infusions
+183,Methotrexate
+183,Pristiq
+183,Zofran
+182,N/A
+181,Amlodipine
+181,Amiloride
+181,Benazepril
+181,Hydralazine
+181,Propranolol
+180,Aripiprazole
+180,Cannabidiol
+180,Clonazepam
+180,Etonogestrel-eluting contraceptive device
+180,Gabapentin
+180,Lyrica
+180,Magnesium citrate
+180,Melatonin
+180,Metformin
+179,CBD oil
+179,Fluoxetine
+179,Keppra
+179,Sinemet
+178,N/A
+177,Prilosec
+177,Gabapentin
+177,Topomax
+176,Keppra
+175,Clobazam
+175,Corpus callosotomy
+175,Epidiolex
+175,Leucovorin
+175,Levetiracetam
+175,Melatonin as needed
+175,Rufinamide
+175,Diastat
+175,Klonopin
+174,B6 compound
+174,Ear tubes
+174,Keppra
+174,"Physical, occupational, and speech therapy"
+174,Vimpat
+173,"Ativan, Clonazepam, CBD oil, Rufinamide"
+172,Advair
+172,"Baclofen, clonazepam, gabapentin, tizanidine"
+172,Botox
+172,Carnitor
+172,CoQ supplement
+172,G-tube
+172,nissen fundoplication
+172,Leucovorin
+172,Melatonin
+172,Sodium Citrate
+172,Scopolamine patches
+171,Physical therapy
+171,Vitamin D 
+170,N/A
+169,N/A
+168,Thoracolumbosacral orthosis
+167,N/A
+166,Amlodipine
+166,Bactrim
+166,"Tacrolimus, serolimus , prednisilone, valganciclovir"
+166,Ursodiol
+166,Ranitidine
+166,Zen pep
+166,Albuterol
+166,"Coenzyme Q10, alphalipoic acid, riboflavin, levocarnatine"
+166,Vitamins A and D and cholestyramine
+165,"Benadryl, loratadine, hydrocortisone, prednisone"
+164,N/A
+163,Famotidine
+163,Vimpat
+163,Cellcept
+163,Prednisone
+163,Cytoxan
+162,Ankle foot orthotics
+162,Hippotherapy
+162,Occupational therapy
+162,Physical therapy
+161,N/A
+160,Tocilizumab
+159,"Atropine drops, Scopolamine Patch"
+159,"Keppra, Lamictal, Valproic acid (Diastat and Clonazepam as needed)"
+159,Vitamin B6 and D3
+159,Zyrtec
+158,"Clonazepam, keppra, ketogenic diet, onfi (clobazam)"
+158,CBD and THC oil
+158,Ferrous sulfate (iron)
+158,Potassium citrate
+158,Ubiquinone (coQ10)
+158,Vitamins
+157,Carvedilol
+157,Lisinopril
+156,Hizantra
+155,Carnitor
+155,"Omeprazole, Rantinidine"
+155,"Topomax, Epidiolex, ketogenic diet"
+155,"Vitamin B1, Vitamin B2, CoQ 10"
+154,N/A
+153,N/A
+152,Amilodapine
+152,"Cellcept, prograf"
+152,Gastrostomy tube
+152,"Singulair, symbicort"
+151,"Albuterol, Advair, Singulair"
+151,"Flonase, cetirizine "
+151,Omeprazole
+151,Sulfamethoxazole
+150,Albuterol
+150,Vitamin D
+150,Eye lubricant
+149,"Clobazam, Gabapentin, Ketogenic diet, Lamotrigine, Vigabatrin"
+149,Gastrostomy tube
+148,Formula
+148,L-carnitine
+148,Melatonin
+148,Multivitamin
+147,Ankle-foot orthosis (AFO)
+147,Augmentative and alternative communication (AAC)
+147,"Behavioral, occupational, physical and speech therapy"
+147,Intravenous immunoglobulin (IVIG)
+146,N/A
+145,Acupuncture
+145,Diazepam
+145,Methocarbamol
+145,Physical therapy
+145,Propranolol
+145,Tizanidine
+144,"Occupational, physical, and speech therapy"
+143,Bactrim
+143,"Flonase, Zyrtec"
+143,Lansoprazole
+143,Melatonin
+143,Miralax
+143,Nasogastric tube
+143,Onfi
+143,Vigabatrin
+142,N/A
+141,Gastrostomy tube
+140,"Albuterol, fluticasone"
+140,Cyproheptadine
+140,G-tube
+140,Glasses
+140,Losartan
+140,Ondansetron
+139,N/A
+138,EleCare formula
+138,"Occupational, physical, speech, feeding, and cognitive therapy"
+137,Albuterol
+137,Biotene
+137,Miralax
+137,Mucomyst
+137,Physical therapy
+137,Prevacid
+137,Occupational therapy
+136,"Occupational, physical, and speech therapy"
+135,Calcium/Vitamin D supplements
+135,Lamictal
+135,Speech and occupational therapy
+135,Zoloft
+134,"Albuterol, Pulmicort, Motelukast, Fluticasone"
+134,Epidiolex
+134,G tube
+133,N/A
+132,Aspirin
+132,Cilostazol
+132,Methotrexate
+132,Mycophenolic acid
+132,Pentoxifylline 
+132,Hydroxychloroquine
+132,Rizatriptan
+131,"Benefiber, Bisacodyl, Miralax, Magnesium oxide"
+131,Coenzyme Q10
+131,Gabapentin
+131,Melatonin
+131,Nexium
+130,N/A
+129,N/A
+128,Carnitine supplements
+128,Occupational therapy
+128,Rituxan infusions
+128,Synthroid
+127,"Albuterol, shaky vest "
+127,IVIG treatments
+127,Pulmicort
+127,Ranitidine
+127,"Speech, occupational, and physical therapy"
+127,Supra-malleolar orthosis (SMOs)
+126,"Applied behavior analysis, occupational, physical, and speech therapy"
+126,Glasses
+125,Desmopressin
+125,Growth hormone replacement
+125,Hydrocortisone
+125,"Keppra, Ativan"
+125,Levothyroxine
+125,Testosterone replacement
+125,Transfusion
+124,Alendronate
+124,"Clobazapam, Banzel, Diastat, ketogenic diet"
+124,Estradiol
+124,G tube placement
+123,Manganese supplement
+123,Multivitamin with zinc
+122,Ankle-foot orthoses
+122,Erythromycin
+122,"Flonase, Zyrtec"
+122,Gastrostomy tube
+122,Prevacid
+122,Vasotec
+121,N/A
+120,N/A
+119,Zoledronic acid
+119,Insulin
+118,G-tube feeding
+118,Vagus nerve stimulation
+117,"Diastatin, Keppra, Klonopin"
+117,Prilosec
+117,Norethindrone
+116,"Amlodipine, Labetalol"
+116,"Calcium carbonate, Zantac"
+116,"Diazepam, Gabapentin, Keppra, Zonisamide"
+116,Melatonin
+116,Ritalin
+116,Singulair
+116,Sertraline
+116,Somatropin
+116,Trazodone
+115,N/A
+114,Zonizamide
+113,G-tube
+113,Hydrocortisone
+113,Lactulose
+113,"Omeprazole, ranitidine"
+112,Albuterol sulfate
+112,"Benadryl, Cetirizine, Loratidine, Nasonex"
+112,"Budesonide, Pulmicort"
+112,"Clonazepam, Clobazam, Diastat, Sabril"
+112,"Clonidine, sodium chloride"
+112,"Cuvposa, Robinul"
+112,Polyethylene glycol
+112,Ranitidine
+112,Zofran
+111,N/A
+110,N/A
+109,"Albuterol, Fluticasone"
+109,Atropine
+109,"Clonazepam, Diazepam, Keppra, Oxcarbazepine, Zonisamide"
+109,Glycolax
+109,Levothyroxine
+109,"Physical, occupational, speech, and music therapy"
+108,Physical therapy
+107,N/A
+106,N/A
+105,N/A
+104,Neurontin
+104,"Occupational, speech and physical therapy"
+104,Topamax
+103,N/A
+102,"Advair, Proair"
+102,Cecostomy tube
+101,Ankle foot orthoses (AFOs)
+101,Melatonin
+101,Lamictal
+101,Clonidine
+100,G-tube
+100,Glasses
+100,"Physical, occupational, and feeding therapy"
+99,Insulin
+99,ICD
+99,Nadolol
+98,"Trileptal, Lyrica, Mexitil"
+97,Ankle Foot Orthoses (AFOs)
+96,"Amicar, replacement factor"
+96,Keppra
+96,Pamelor
+95,Ankle foot orthosis
+95,"Ethosuximide, Keppra, Onfi, Zonismide"
+95,Melatonin
+95,Miralax
+95,Ranitidine
+94,N/A
+93,Bactrim prophylaxis
+93,Gabapentin
+93,Histrelin acetate (Supprelin) implant
+93,Trazadone
+92,Depakote
+92,Sinemet
+91,Baclofen
+91,Neurotonin
+91,"Rizatriptan, Propranolol"
+90,"Physical, aqua, feeding and speech therapy"
+89,"Florinef, Desopressin (DDAVP)"
+89,"Magnesium citrate, potassium citrate, IVIG"
+88,"Albuterol, beclomethasone dipropionate, fluticasone propionate, Singulair"
+88,Levothyroxine
+87,"Dronabinol, hyoscine"
+87,Famotidine
+87,GJ tube feeding
+87,"Hyoscyamine, Metoclopramide"
+87,"Miralax, sennoside"
+86,Cleocin-T
+86,Clonazepam
+86,Lamictal
+86,Nystatin
+86,"Seroquel, Zoloft"
+85,Botox injections
+85,G tube
+85,Trileptal
+84,Growth hormone norditropin flex pro
+84,Laxatives
+84,Maxatrol
+84,Nitrofuratoin
+83,Gabapentin
+83,Keppra
+83,Mysoline
+82,"Cyproheptadine, zofran "
+82,Gabapentin
+82,Klonopin
+82,"Prilosec, famotidine"
+82,Topomax
+82,TPN
+82,Ursodiol
+82,"Xifaxin, neomycin"
+81,Aspirin
+80,N/A
+79,Keppra
+78,BiPaP
+78,Gastrostomy tube feeding
+77,Ativan
+77,Clonazepam
+77,Vimpat
+76,Anti-seizure medication
+76,Applied behavior analysis (ABA) therapy
+75,Cord blood infusion
+75,Diazepam
+74,"Baclofen, Ketamine, Percocet"
+74,Steroids
+74,Insulin
+73,"Atacand, Isradipine"
+73,Esmoprazole
+73,"Flovent, Albuterol"
+72,IgG replacement therapy
+72,Prophylactic anti-microbials
+71,"Carbidopa, Coenzyme Q10, Miralax"
+71,Milk of Magnesia
+70,Levothyroxine
+70,Medium chain triglyceride diet
+69,N/A
+68,Melatonin
+68,"Onfi, Keppra"
+68,Pentasa
+68,IVIG- ataxia/neurological symptoms
+67,N/A
+66,Clonidine
+66,Coenzyme Q-10
+66,"Keppra, Valium"
+65,N/A
+64,Knee-ankle-foot orthotics
+63,Clonazepam
+63,Erythromycin
+63,Guanfacine
+63,Melatonin
+63,"Miralax, senna syrup"
+63,"Prevacid, G-tube feeding"
+63,Risperdal
+63,"Ubiquinol, super B complex"
+62,Diazepam
+62,Hyoscyamine
+62,Ipratropium Bromide
+62,"Morphine, oxycodone, Phenergan, Ondansetron"
+62,Quinapril
+61,"Onfi, Keppra, Lamictal, Zonegran, Klonopin"
+61,Vagus Nerve Stimulator
+60,Baclofen
+60,Diazepam
+60,Trihexyphenidyl
+59,"Diazepam, Onfi"
+59,Methotrexate
+59,Steroids
+58,"Cellcept, Prednisone"
+57,Diazepam
+57,Flucticasone
+57,Gastrostomy tube
+57,Omeprazole
+57,Triamcinolone acetonide
+56,Seizure medications
+55,Amantadine
+55,"Clonazepam, Zonisamide, brivaracetam"
+55,Glycopyrrolate
+55,IVIG treatment monthly
+55,Miralax
+54,N/A
+53,N/A
+52,Omperazole
+52,Vitamin D
+52,Zyrtec
+51,"Atrovent, Advair"
+51,"Miralax, Senexon"
+51,"Prevacid, Zantac"
+51,"Singulair, Allegra, Flonase"
+51,Synthroid
+50,N/A
+49,Ritalin
+48,Warfarin
+47,N/A
+46,"Albuterol, QVAR"
+46,Alpha lipoic acid
+46,Bethanechol
+46,Bicitra
+46,Cholecalciferol
+46,"Cromolyn, Erythromycin, Omeprazole"
+46,"Diastat, Keppra, Phenobarbital"
+46,EpiPen
+46,Gastrocrom
+46,Riboflavin
+45,N/A
+44,Baclofen pump injections
+44,G-tube
+43,Adderall
+43,Zoloft and Trazodone
+43,Gabapentin
+43,Tizanidine
+43,Omeprazole
+43,Topamax
+42,"CBD, Clonazepam, Diastat"
+42,Liquid iron
+42,Methotrexate
+42,Potassium citrate
+41,N/A
+40,Acetaminophen
+40,Cerovite tabs
+40,Hydrocortisone
+40,Levocetrizine
+40,Mineral oil
+40,Minocycline
+40,Mirtazapine and Citalopram
+40,Triamcinolone ointment
+39,Gabapentin
+39,"Lamictal, Prozac, Concerta"
+38,Chloral hydrate
+38,Domperidone and Omeprazole
+38,Gabapentin
+38,Lamotrigine
+37,Coenzyme Q10
+37,"Keppra, diazepam"
+37,"Levocarntitine, whey protein"
+36,N/A
+35,Coenzyme Q10
+35,Cytra K Packets
+35,DHA/Omega 3- fat supplement
+35,Levocarnitine
+35,Liquigen
+35,"Low carbohydrate, high fat diet"
+34,Adderall XL
+34,Aspirin
+34,Cetirizine
+34,"Cholecalciferol, Ergocalciferol"
+34,Coenzyme Q-10
+34,Duloxetine
+34,Glycosade
+34,"Levalbuterol, montelukast"
+34,Levocarnitiine
+34,Melatonin
+34,Metoprolol
+34,Minimizing exercise
+34,Naproxen
+34,Omeprazole
+34,Prilosec
+34,Regular consumption of carbs and avoiding fasting
+34,Use of a power assist wheelchair
+33,N/A
+32,Alpha lipoic acid
+32,Baclofen (older sibling)
+31,Miralax
+31,Baclofen (during the day) and Neurontin (at night)
+30,"Tocilizumab (IL-6 receptor antagonist), prednisone"
+29,N/A
+28,"Atrovent, Xopenex, Pulmicort"
+28,Cefdinir
+28,"Frequent feeds, Glycosade"
+28,Levocarnitine
+28,Coenzyme Q10
+28,Miralax
+27,Iron supplementation
+26,Albuterol
+26,Ativan
+26,Losartan
+26,Metformin
+26,Singulair
+26,Zoloft
+26,Zovia
+25,Sinemet and Cogentin
+25,Vitamin D3
+25,Creatine
+24,Vagal nerve stimulator
+24,"Levetiracetam, phenobarbital, lacosamide"
+24,G-tube
+23,Topical cortisone
+22,BiPAP
+21,Sinemet
+21,Divalproex
+21,G-tube
+20,Plaquenil
+20,Levothyroxin
+20,Turmeric
+20,Vitamin D
+20,Vitamin B12
+19,N/A
+18,Nasal intermittent positive pressure ventilation
+17,Duplilmab
+17,Prednisone
+17,Mycophenolate
+17,Singulair
+17,Amitriptyline
+17,Zytrec and Bendadryl
+16,Omnitrope
+15,Acetyl l-carnitine
+15,Keppra
+15,Melatonin
+15,Trazadone
+15,Trileptal
+14,Cromolyn
+14,Benadryl
+14,Ivabradine
+14,Valtrex
+14,Eszopiclone
+13,Carbamazepine
+13,Florinef
+13,HCTZ
+13,Leucovorin
+13,"Mitochondrial cocktail (coenzymeQ10, creatine, alpha lipoic acid, vitamin E)"
+13,Omega-3
+13,N-acetylcyteine
+13,Nocturnal bi-level ventilation (BiPAP)
+13,Plasmapheresis
+13,Synthroid
+13,Vitamin D
+12,N/A
+11,Nucala injection
+11,Lexapro
+11,"Amlodipine, Hyzaar"
+11,Prednisone
+11,"Levalbuterol, ProAir HFA 108"
+11,"Clarithromycin, Tobramycin OP, Vancomycin"
+11,"Cyclophosphamide, Hyqvia"
+11,Restoril
+10,Tracheostomy
+10,G-tube
+9,Restoril
+9,Flovent
+9,Hypertonic Saline Nebulized Solution
+9,Chest Vest Physiotherapy
+8,"Occupational, physical, speech therapy"
+8,Glasses
+7,Botox injections
+7,Gastric tube
+6,Duoneb
+6,Pulmicort
+6,Ventolin
+6,Proventil
+5,Topamax
+4,Topamax
+4,Ketogenic diet
+4,Clonazepam
+4,Gabapentin/neurontin
+4,G-Tube
+3,Diamox
+2,Levothyroxine
+2,Prednisone
+2,Cellcept
+2,Hydrochlorothiazide
+2,IV immunoglobulins
+2,Speech therapy
+1,N/A

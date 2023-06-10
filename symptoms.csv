@@ -1,0 +1,3990 @@
+patient_id,symptoms
+211,cognitive regression
+211,myoclonus
+211,limb hypertonia
+211,behavioral changes
+211,motor regression
+211,abnormal autonomic nervous system physiology
+211,mental deterioration
+211,psychosis
+211,bradykinesia
+211,anxiety
+211,migraine
+211,alopecia
+211,nystagmus
+211,intermittent blurred vision
+211,diplopia
+211,tongue akathisia
+211,dysphagia
+211,hashimoto thyroiditis
+211,sinus bradycardia
+211,tachycardia
+211,asthma
+211,chronic cough
+211,pes planus
+211,joint laxity
+211,skeletal muscle atrophy
+211,spasticity
+211,shuffling gait
+211,hyperhidrosis
+211,weight loss
+210,infantile spasms
+210,global developmental delay
+210,thin corpus callosum
+210,microcephaly
+210,cerebral visual impairment
+210,hypertrophic cardiomyopathy
+210,bicuspid aortic valve
+210,aortic root aneurysm
+210,gastroesophageal reflux
+209,autism spectrum disorder
+209,cognitive impairment
+209,dysmorphic facial features
+209,hypotonia
+209,attention-deficit/hyperactivity disorder
+209,developmental delay
+209,midface hypoplasia
+209,strabismus
+209,epicanthal folds
+209,down slanting palpebral fissures
+209,low set posteriorly rotated ears
+209,otitis media with effusion
+209,tubular nose with full and slightly bulbous tip
+209,depressed nasal bridge
+209,speech apraxia
+209,synovitis of left hip
+208,cognitive problems
+208,dysarthria
+208,ataxia
+208,vertigo
+208,brain abnormalities
+208,balancing difficulties
+207,abnormal morphology
+207,hypertriglyceridemia
+207,creatine kinase
+207,skeletal muscle atrophy
+206,prune belly syndrome
+206,cerebral arteriopathy
+206,strokes
+206,slow response of pupils to light
+206,long fingers
+206,hyperextensibility
+206,anemia
+206,epistaxis
+206,scoliosis
+206,short stature
+206,testicular atrophy
+206,hypogonadism
+206,hydronephrosis
+206,recurrent urinary tract infections
+206,chronic kidney disease
+206,hypertension
+206,hepatomegaly
+206,splenomegaly
+206,hypersplenism
+206,gastrointestinal dysmotility
+206,dysarthria
+206,limb hypertonia
+206,hemiplegia
+206,decreased cognitive abilities
+205,global developmental delay
+205,hypotonia
+205,recurrent respiratory infections
+205,brain abnormalities
+205,failure to thrive
+205,strabismus
+205,nearsighted
+205,deeply set eyes
+205,ear abnormalities
+205,anteverted nares
+205,wide mouth
+205,tapered fingers
+205,gastroesophageal reflux
+204,elevated creatinine kinase levels
+204,rhabdomyolysis
+204,pigmenturia
+204,damage to nervous system
+204,progressive lower extremity weakness
+204,steppage gait
+204,peroneal muscle atrophy
+203,short stature
+203,Wolff-Parkinson-White syndrome
+203,hypotonia
+203,reduced tendon reflexes
+203,motor delay
+203,anisocoria
+203,auricular tag
+203,hearing loss
+203,cardiomyopathy
+203,heart defects
+203,constipation
+203,digit differences
+202,global developmental delay
+202,chiari I malformation
+202,gait ataxia
+202,short stature
+202,prominent forehead
+202,atrial septal defect
+202,brachydactyly
+202,tapered finger
+202,hypotonia
+202,hematochezia
+202,constipation
+202,polyphagia
+202,feeding difficulties in infancy
+202,abnormal growth hormone levels
+202,hyperlipidemia
+201,global developmental delay
+201,brain abnormalities
+201,ataxia
+201,involuntary shaking
+201,abnormal gait
+201,facial differences
+201,eye abnormalities
+201,dysarthria
+201,uplifted earlobe
+201,café-au-lait spot
+200,peripheral neuropathy
+200,dysautonomia
+200,dysphagia
+200,irregular heart rhythm 
+200,vasovagal syncope
+200,gastroparesis
+200,neurogenic bladder
+200,delayed fine motor development
+200,expressive language delay
+200,receptive language delay
+200,eye conditions
+200,sensorineural hearing loss
+200,anhidrosis
+200,dyspnea
+200,nausea
+200,reduced bone mineral density
+200,foot dorsiflexor weakness
+200,talipes equinovarus
+200,deep venous thrombosis
+200,hypoglycemia
+200,hypokalemia
+200,hyponatremia
+200,asthenia
+199,common variable immune deficiency
+199,mitochondrial deficiency
+199,gastroparesis
+199,brain abnormalities
+199,tethered cord
+199,otitis media
+199,heart defects
+199,laryngomalacia
+199,bronchomalacia
+199,laryngeal cleft
+199,gastroparesis
+199,progressive GERD
+199,Meckel’s diverticulum
+199,neurogenic bladder
+199,genu valgum
+199,lower limb asymmetry
+199,anemia
+198,juvenile-onset parkinsonism
+198,dystonia
+198,ataxia
+198,peripheral axonal neuropathy
+198,motor development delay
+198,hypertonia
+198,spasticity
+198,hyperreflexia
+198,IQ in the borderline range
+198,impairment in reading and mathematics
+198,dysarthria
+198,dysphonia
+198,ankle clonus
+198,nystagmus
+198,esotropia
+198,presynaptic striatal dopaminergic deficit
+197,global developmental delay
+197,intrauterine growth retardation
+197,childhood onset chronic constipation
+197,encopresis
+197,urinary incontinence
+197,urinary retention
+196,brain abnormalities
+196,growth abnormalities 
+196,global developmental delay
+196,axial hypotonia
+196,proximal muscle weakness
+196,hypertonia
+196,eye abnormalities
+196,bilateral sensorineural hearing loss
+196,facial differences
+196,heart abnormalities
+196,gastrointestinal abnormalities
+196,skeletal abnormalities
+196,abnormalities of the skin and teeth
+196,micropenis
+196,graves’ disease
+195,brain abnormality
+195,brain tumors
+195,fibroma
+195,impaired convergence
+195,global developmental delay
+195,generalized joint laxity
+195,seizures
+195,bilateral coxa valga
+194,seizures
+194,developmental delay
+194,macrotia
+194,intellectual disability
+194,brain abnormalities
+194,metopic ridge
+194,nystagmus
+194,bilateral ptosis
+194,high palate
+194,micrognathia
+194,hypotonia
+194,café-au-lait spots
+194,reynaud’s disease
+194,beta thalassemia trait
+193,atopic dermatitis
+193,global developmental delay
+193,auditory processing disorder
+193,autism
+193,sleep disturbances
+193,macrocephaly
+193,cutaneous photosensitivity
+193,flushing
+193,aortic regurgitation
+193,asthma
+193,incontinence
+193,hypotonia
+193,autonomic nervous system dysfunction
+193,diabetes insipidus
+193,immune system abnormalities
+192,focal-onset seizure
+192,motor delay
+192,delayed speech and language development
+192,borderline microcephaly
+192,abnormal brain MRI findings
+192,facial differences
+192,dental differences
+192,abnormal oral frenulum morphology
+192,bilateral pyriform aperture stenosis
+192,exotropia
+192,unilateral ptosis
+192,cerebral visual impairment
+192,fourth cranial nerve palsy)
+192,ear differences
+192,vascular malformations
+191,systemic onset juvenile arthritis
+191,cardiovascular anomalies
+191,seizures
+191,abnormal facial shape
+191,downslanted palpebral fissures
+191,micrognathia
+191,thick vermilion border
+191,hypertelorism
+191,low-set ears
+191,pulmonary embolism
+191,chronic lung disease
+191,chylothorax
+191,hepatic fibrosis
+191,global developmental delay
+191,metabolic anomalies
+191,lymphopenia
+191,systemic autoinflammation
+190,musculoskeletal anomalies
+190,osteoporosis
+190,delayed puberty
+190,short stature
+190,craniofacial anomalies
+190,lagopthalmos
+190,tooth agenesis
+190,hearing impairment
+190,cardiovascular anomalies
+190,airway obstruction
+190,restrictive ventilatory defect
+190,obstructive sleep apnea
+190,scoliosis
+190,constipation
+190,lipodystrophy
+190,pancytopenia
+190,recurrent singultus
+189,musculoskeletal anomalies
+189,congenital heart defects
+189,craniofacial anomalies
+189,delayed speech and language development
+189,eye anomalies
+189,ear anomalies
+189,bilateral sensorineural hearing loss
+189,respiratory anomalies
+189,gastroesophageal reflux
+189,chronic constipation
+188,seizures
+188,hypsarrhythmia
+188,epileptic encephalopathy
+188,global developmental delay
+188,absent speech
+188,developmental regression
+188,hypotonia
+188,hyporeflexia
+188,facial/head/mouth differences
+188,visual impairment
+188,ear abnormalities
+188,prominent superficial veins of the chest and abdomen
+188,pectus excavatum
+188,hand and foot differences
+188,bilateral coxa valga
+188,intestinal malrotation
+188,genitourinary differences
+188,sleep apnea
+188,chronic constipation
+188,gastroesophageal reflux
+188,premature adrenarche
+187,absent speech
+187,seizures
+187,intellectual disability
+187,global developmental delay
+187,delayed motor development
+187,receptive language delay
+187,obsessive-compulsive and aggressive behavior
+187,brain abnormalities
+187,hypotonia
+187,gait ataxia
+187,elbow flexion contracture
+187,deeply-set eyes
+187,mandibular prognathia
+187,malar prominence
+187,ankyloglossia
+187,hand and foot abnormalities
+187,inverted nipples
+187,tibial torsion
+186,global developmental delay
+186,microcephaly
+186,sparse hair and eyebrows
+186,aplasia/hypoplasia of the nails
+186,eye abnormalities
+186,ear abnormalities
+186,choanal stenosis
+186,musculoskeletal abnormalities
+186,gastroesophageal reflux 
+186,genitourinary abnormalities
+186,bilateral renal dysplasia
+186,hypoplastic nipples
+186,constipation
+185,orthostatic hypotension
+185,narcolepsy
+185,cataract
+185,miosis
+185,blurred vision
+185,tinnitus
+185,vertigo
+185,bradycardia
+184,delayed speech and language development
+184,motor delay
+184,brain abnormality 
+184,nerve abnormality
+184,narrow mouth
+184,high palate
+184,upslanted palpebral fissure
+184,hypertelorism
+184,obstructive sleep apnea
+184,hyperthyroidism
+184,low-set nipples
+184,membranous glomerulonephritis
+184,hypotonia
+184,joint laxity
+184,osteopenia
+183,hashimoto encephalopathy
+183,myasthenia gravis
+183,depression
+183,decreased circulating antibodies
+183,vasculitis
+183,hepatitis
+183,arthralgia
+183,tall stature
+183,high palate
+183,prominent forehead
+183,dilated pupils
+183,uveitis
+183,low-set ears
+183,inverted nipples
+183,abdominal adhesions
+183,scoliosis
+183,slipped vertebrae
+183,spina bifida occulta
+183,long fingers
+183,long toe
+183,joint hypermobility
+183,hypotonia
+183,telangiectasia
+182,global developmental delay
+182,hypotonia
+182,leukodystrophy
+182,abnormal brain electrical activity
+182,elevated brain lactate level by MRS
+182,visual impairment
+182,optic atrophy
+182,esotropia
+181,hypertension
+181,autonomic nervous system dysfunction
+181,hypokalemia
+180,attention deficit hyperactivity disorder
+180,impulsivity
+180,parasomnia
+180,sleep terror
+180,auditory and visual hallucination
+180,abnormality of brain electrical activity 
+180,seizures
+180,perivascular spaces
+180,tarlov cyst
+180,mild-moderate intellectual disability
+180,poor coordination
+180,coarse/thick hair
+180,sensorineural hearing loss
+180,decayed teeth
+180,retrognathia
+180,short neck
+180,arterial tortuosity
+180,scoliosis
+180,umbilical hernia
+179,seizures
+179,hemiballismus
+179,dystonia
+179,gait disturbance
+179,abnormal brain structure
+179,abnormal brain imaging
+179,global developmental delay
+179,abnormality of the spine
+179,joint hypermobility
+179,muscular hypotonia of the trunk
+179,short 5th finger
+179,pes planus
+179,short stature
+178,global developmental delay
+178,absent speech
+178,hand tremor
+178,brain abnormalities
+178,facial differences
+178,rye abnormalities
+178,ear abnormalities
+178,cutis laxa
+178,joint hypermobility
+178,hypertonia
+177,global developmental delay
+177,torticollis
+177,muscular hypotonia
+177,bilateral talipes equinovarus
+177,seizures
+177,relative macrocephaly
+177,latent nystagmus
+177,long palpebral fissure
+177,short philtrum
+177,tented upper lip vermilion
+177,micrognathia
+177,single transverse palmar crease
+177,short foot
+176,seizure-like episodes
+176,recurrent hypoglycemia
+176,sleep disturbance
+176,decreased body weight for age
+176,abnormality of the cerebral white matter
+176,gastrostomy tube feeding since infancy
+176,difficulty swallowing
+176,severe food aversion
+176,gastroesophageal reflux
+176,pronunciation problems
+176,microcephaly
+176,brachycephaly
+176,horizontal eyebrow
+176,upslanted palpebral fissure
+176,deeply set eye
+176,myopia
+176,long eyelashes
+176,bulbous nose
+176,thin vermilion border
+176,hypoplasia of dental enamel
+176,torticollis
+176,laryngeal cleft
+176,sacral dimple
+176,bruising susceptibility
+175,autism
+175,seizures
+175,encephalopathy
+175,delayed speech and language development
+175,delayed motor development
+175,vision impairment
+175,hypotonia
+175,gait ataxia
+175,broad-based gait
+175,leukocytosis
+175,intermittent mild metabolic acidosis
+175,mildly low cerebrospinal fluid folate level
+175,mild metabolic acidosis
+174,absent speech
+174,delayed gross motor development
+174,delayed speech and language development
+174,global developmental delay
+174,seizures
+174,cerebral palsy
+174,clumsiness
+174,EEG abnormality
+174,subdural hemorrhage
+174,nystagmus and upbeat nystagmus
+174,inability to walk
+174,hyperreflexia
+174,dystonia
+174,poor gross and fine motor coordination
+174,limb dysmetria
+174,achilles tendon contracture
+174,babinski sign
+174,central hypotonia
+174,hypertonia
+173,global developmental delay
+173,delayed gross motor development
+173,delayed speech and language development
+173,developmental regression
+173,seizures
+173,epileptic encephalopathy
+173,autistic behavior
+173,brain abnormalities
+173,astigmatism
+173,hypotonia
+173,broad-based gait
+173,clumsiness
+173,mitochondrial deficiency
+172,global developmental delay
+172,muscle tone abnormalities
+172,spasticity
+172,short stature
+172,failure to thrive
+172,brain abnormalities
+172,EEG abnormality
+172,nevus flammeus
+172,sialorrhea
+172,dysphagia
+172,laryngeal cleft
+172,recurrent pneumonia
+172,gastroesophageal reflux
+172,nephrolithiasis
+172,renal tubular acidosis
+172,absent speech
+172,sleep disturbance
+172,inability to walk
+172,cerebral folate deficiency
+171,congenital absence of bilateral deltoid muscles
+171,hypoplastic bicep tendon
+171,recurrent mandibular subluxations
+171,bilateral cryptorchidism
+171,global developmental delay
+171,learning disability
+171,facial differences
+171,dysphagia
+171,gastroesophageal reflux
+171,heart abnormalities
+171,scoliosis
+171,joint hypermobility
+171,elbow flexion contracture
+171,bimanual synkinesia
+171,knuckle dislocations
+171,gastrointestinal dysmotility
+171,tissues protruding through abdomen 
+171,deep hip sockets
+171,pes planus
+171,no pain sensitivity
+171,hyposmia
+171,sweat gland abnormalities
+171,hormone abnormalities
+170,delayed gross motor development
+170,delayed speech and language development
+170,ataxia
+170,tall stature
+170,large for gestational age
+170,astigmatism
+170,hyperopia
+170,downbeat nystagmus
+170,muscular hypotonia of the trunk
+170,intention tremor
+170,left talipes equinovarus
+169,gait disturbance
+169,muscle weakness
+169,elevated serum creatine kinase
+169,hypotonia
+169,myopathy
+169,LMNA-related muscular dystrophy
+168,global developmental delay and intellectual disability
+168,motor delay
+168,problems with coordination
+168,bradykinesia
+168,absent speech
+168,brachycephaly
+168,progressive spasticity
+168,bilateral ankle clonus
+168,decreased body weight
+168,short stature
+168,hypotonia
+167,global developmental delay
+167,brain abnormalities
+167,borderline microcephaly
+167,hypotonia
+167,mixed hyperkinetic movement disorder
+167,dystonia
+167,choreoathetosis
+167,ataxia
+167,brisk reflexes
+167,hyperekplexia
+167,irritability
+167,temperature instability
+167,decreased homovanillic acid in cerebrospinal fluid
+167,increased Growth Differentiation Factor 15 in plasma
+166,global developmental delay
+166,meconium peritonitis
+166,biliary atresia
+166,intestinal obstruction
+166,bowel perforation
+166,acholic stools
+166,stroke
+166,encephalomalacia
+166,hypotonia
+166,heart rhythm abnormality
+166,hypertension
+166,restrictive ventilatory defect
+166,obstructive sleep apnea
+166,restrictive lung disease
+166,phimosis
+166,hypomagnesemia
+166,enlarged tonsils
+166,bile acid malabsorption
+166,hypoglycemia
+166,pancreatic insufficiency
+166,post-transplant lymphoproliferative disease
+166,OPA1 genetic disorder
+165,atopic dermatitis
+165,inflammatory abnormality of the skin
+165,erythema
+165,arthralgia
+164,global developmental delay
+164,intellectual disability
+164,absent speech
+164,seizures
+164,sparse and thin eyebrow
+164,hypotelorism
+164,anteriorly rotated ears
+164,prominent nose
+164,midface retrusion
+164,wide mouth
+164,mandibular prognathia
+164,doughy skin
+164,numerous congenital melanocytic nevi
+164,scoliosis
+164,pes cavus
+164,generalized joint laxity
+164,cutaneous finger syndactyly
+164,hypotonia
+163,progressive mental deterioration
+163,memory impairment
+163,loss of consciousness
+163,transient global amnesia
+163,semantic dementia
+163,seizures
+163,progressive headache
+163,brain abnormalities
+163,cerebral hemorrhage
+163,hypertonia
+163,reduced visual acuity
+163,hearing impairment
+163,striae distensae
+163,hypopigmented macules
+163,abnormal aggressive behavior
+162,delayed gross motor development
+162,delayed fine motor development
+162,dysmetria
+162,dysdiadochokinesis
+162,brain abnormalities
+162,speech articulation difficulties
+162,congenital muscular torticollis
+162,hyperextensibility
+162,adductor longus contractures
+162,myopathy
+162,muscle tone abnormalities
+162,spastic paraplegia
+162,spastic diplegia
+162,sensorimotor neuropathy
+162,achilles tendon contracture
+162,rocker bottom foot
+161,short stature
+161,accelerated skeletal maturation
+161,striae distensae
+161,cervical C2/C3 vertebral fusion
+161,kyphosis
+161,hamstring contractures
+161,hindfoot deformity
+161,joint laxity
+161,delayed speech and language development
+161,heart abnormalities
+161,ectopic thymus tissue
+161,facial differences
+161,moderate asthma
+161,gastroesophageal reflux
+161,hiatus hernia
+161,chordee
+161,piezogenic pedal papules
+161,pes planus
+161,precocious puberty
+160,episodic fever
+160,neuropathy
+160,laryngomalacia and bronchomalacia
+160,iIntermittent facial flushing
+160,asthma
+160,recurrent pneumonia
+160,speech articulation difficulties
+160,gastroesophageal reflux
+160,cholecystitis
+160,splenomegaly
+160,acute liver failure
+160,pancreatitis
+160,food intolerance
+160,projectile vomiting
+160,dependency on intravenous nutrition
+160,abdominal pain
+160,abdominal distention
+160,chronic constipation
+160,translocation of GI bacteria to blood
+160,intermittent GI bleeding
+160,urinary retention
+160,osteopenia
+160,many allergies/sensitivities
+160,elevated hepatic transaminase
+160,low levels of cells in the blood
+160,reduced coagulation activity
+160,Iincreased serum ferritin
+160,hypoglycemia
+159,global developmental delay
+159,intellectual disability
+159,seizures
+159,dystonia
+159,tremor
+159,hypotonia
+159,macrocephaly
+159,abnormal facial shape
+159,prominent forehead
+159,full lips
+159,wide mouth
+159,dysphagia
+159,drooling
+159,tooth abnormalities
+159,prominent gums
+159,full nose
+159,hyperpigmented nevi
+159,broad toe
+158,developmental regression
+158,seizures
+158,sleep disturbance
+158,eye abnormalities
+158,abnormality of eye movements
+158,spastic tetraparesis
+157,proximal muscle weakness
+157,distal muscle weakness
+157,dilated cardiomyopathy
+157,restrictive lung disease
+157,muscle wasting
+157,necrotizing skeletal myopathy
+157,rimmed vacuoles on muscle biopsy
+157,bilateral ptosis
+157,keratoconjunctivitis sicca
+157,facial palsy
+157,blepharospasm
+157,atrophic scars
+157,elbow flexion contracture
+156,immune system abnormalities
+156,leukopenia
+156,lymphopenia
+156,infantile hypercalcemia
+155,global developmental delay
+155,expressive and receptive language delay
+155,difficulty controlling voluntary movements
+155,hypotonia
+155,seizures
+155,EEG abnormality
+155,brain abnormalities
+155,postnatal microcephaly
+155,nystagmus
+155,oculomotor apraxia
+155,hypermetropia
+155,titubation
+155,gastroesophageal reflux
+155,hyperammonemia
+155,hyperalaninemia
+155,mitochondrial childhood disorder
+154,global developmental delay
+154,intellectual disability
+154,autism
+154,anxiety
+154,brain abnormalities
+154,gait ataxia
+154,narrow forehead
+154,epicanthus
+154,upslanted palpebral fissures
+154,hypoplasia of the fovea
+154,gaze-evoked horizontal nystagmus
+154,full cheeks
+154,narrow palate
+154,abnormality of the ears
+154,broadened eyebrows
+154,tapered finger
+154,short finger
+154,inverted nipples
+154,laryngomalacia
+154,tracheobronchomalacia
+154,aspiration
+154,impaired airway clearance
+154,chronic constipation
+154,gastroesophageal reflux
+154,vesicoureteral reflux
+154,stage 1 chronic kidney disease
+154,genital abnormality
+153,global developmental delay
+153,seizures
+153,intellectual disability
+153,short stature
+153,microcephaly
+153,abnormal facial shape
+153,myopia
+153,lamellar
+153,protruding ear
+153,thin upper lip vermillion
+153,missing teeth
+153,pectus excavatum
+153,scoliosis
+153,madelung deformity
+153,finger joint hypermobility
+153,joint hypermobility
+153,joint laxity
+153,hip dysplasia
+153,delayed skeletal maturation
+153,talipes equinovarus
+153,splenomegaly
+153,biliary cirrhosis
+153,thrombocytopenia
+153,hodgkin’s lymphoma
+153,increased serum lactate
+153,delayed puberty
+152,global developmental delay
+152,facial differences
+152,low anterior hairline
+152,aplasia/hypoplasia of the earlobes
+152,oral-pharyngeal dysphagia
+152,respiratory insufficiency
+152,deep palmar crease
+152,broad thumb
+152,hypertension
+152,heart abnormalities
+152,gastroesophageal reflux
+152,vesicoureteral reflux
+152,hydronephrosis
+152,medullary nephrocalcinosis
+152,hepatomegaly
+152,sleep apnea
+152,hypotonia
+152,feeding difficulties
+151,recurrent pneumonia
+151,otitis media
+151,delayed speech and language development
+151,palpitations
+151,asthma
+151,aspiration
+151,immotile cilia
+151,lymphopenia
+151,gynecomastia
+150,global developmental delay
+150,intellectual disability
+150,abnormal brain activity
+150,brain abnormalities
+150,coarse facial features
+150,visual impairment
+150,laryngomalacia
+150,respiratory failure requiring assisted ventilation
+150,ventilator dependence
+150,aerophagia
+150,patent foramen ovale
+150,cardiac arrest
+150,feeding difficulties
+150,abdominal distention
+150,gastrostomy tube feeding in infancy
+150,gastroesophageal reflux
+150,urinary incontinence
+150,bowel incontinence
+150,flexion contracture of finger
+150,hypotonia
+150,severe obstructive sleep apnea
+149,global developmental delay
+149,absent speech
+149,failure to thrive
+149,seizures
+149,truncal hypotonia
+149,appendicular hypertonia
+149,clonus
+149,acquired microcephaly
+149,brain abnormalities 
+149,visual impairment
+149,congenital nystagmus
+149,strabismus
+149,compensatory face turn to the left
+149,unilateral cryptorchidism
+148,microcephaly
+148,short stature
+148,hypotonia
+148,failure to thrive
+148,global developmental delay
+148,delayed speech and language development
+148,intellectual disability
+148,dysarthria
+148,ataxia
+148,action tremor
+148,brain abnormalities
+148,rod-cone dystrophy
+148,hypercholesterolemia
+148,decreased plasma carnitine
+148,ADHD-like behavior
+147,global developmental delay
+147,intellectual disability
+147,autism
+147,skull differences
+147,facial differences
+147,ptosis
+147,esotropia
+147,hearing impairment
+147,otitis media
+147,palate abnormalities
+147,bifid uvula
+147,dental crowding
+147,persistence of primary teeth
+147,hand differences
+147,prominent fingertip pads
+147,pes planus
+147,polyphagia
+147,gastroesophageal reflux
+147,constipation
+147,cryptorchidism
+147,kyphosis
+147,hypotonia
+147,broad-based gait
+147,asthma
+147,chronic cough
+147,recurrent infections
+147,OCD
+147,ADHD
+147,behavioral problems
+146,seizures
+146,intellectual disability
+146,unsteady gait
+146,brain abnormalities
+146,astigmatism
+146,myopia
+146,small earlobe
+146,malar flattening
+146,high palate
+146,mitral valve prolapse
+146,scoliosis
+146,narrowing of spinal canal
+146,vertebral wedging
+146,arachnodactyly
+146,action tremor
+146,constipation
+146,oligomenorrhea
+146,sisproportionate tall stature
+146,striae distensae
+146,café-au-lait spots
+146,obstructive sleep apnea
+146,attention deficit hyperactivity disorder
+146,easy fatigue
+145,cerebellar atrophy
+145,visual loss
+145,pigmentary retinopathy
+145,dysarthria
+145,dysphagia
+145,ataxia
+145,muscle spasm
+145,tremor
+145,paresthesia
+145,peripheral neuropathy
+144,global developmental delay
+144,expressive language delay
+144,failure to thrive
+144,abnormality of coordination
+144,difficulty walking
+144,decreased muscle mass
+144,hypotonia
+144,macrocephaly
+144,dolichocephaly
+144,facial differences
+144,nystagmus
+144,congenital bilateral ptosis
+144,staring gaze
+144,seizures
+144,constipation
+143,brain abnormalities
+143,hypotonia
+143,global developmental delay
+143,short stature
+143,microcephaly
+143,facial differences
+143,nevus flammeus
+143,micrognathia
+143,tapered distal phalanges of finger
+143,bradycardia
+143,sacral dimple
+143,gastroesophageal reflux
+143,vesicoureteral reflux
+143,talipes equinovarus
+143,abnormal movements
+143,abnormalities of cerebrospinal fluid
+142,brain abnormalities
+142,intestinal malabsorption
+142,chronic and intractable diarrhea
+142,turner syndrome
+141,arthrogryposis multiplex congenita
+141,global developmental delay
+141,speech delay
+141,hypotonia
+141,short stature
+141,brain abnormality
+141,epicanthus
+141,hypertelorism
+141,micrognathia
+141,aspiration
+141,bilateral vertical talus
+141,reduced muscle collagen VI
+140,global developmental delay
+140,intellectual disability
+140,failure to thrive
+140,seizures
+140,ADHD
+140,hypotonia
+140,microcephaly
+140,brachycephaly
+140,brain abnormalities
+140,alopecia
+140,ptosis
+140,vision issues
+140,ear abnormalities
+140,nose abnormalities
+140,short philtrum
+140,widely spaced teeth
+140,pectus excavatum
+140,aortic root aneurysm
+140,tracheomalacia
+140,camptodactyly
+140,hydronephrosis
+140,cholelithiasis
+140,hiatus hernia
+140,toe abnormalities
+140,body odor
+140,feeding difficulties
+139,global developmental delay
+139,intellectual disability
+139,autism
+139,anxiety
+139,skull abnormalities
+139,heart abnormalities
+139,tapered fingers
+139,scoliosis
+139,joint laxity
+139,impaired social interactions
+139,obsessive-compulsive behavior
+139,repetitive compulsive behavior
+139,tics
+139,hyperactivity
+138,global developmental delay
+138,absent speech
+138,inability to walk
+138,dyskinesia
+138,axial hypotonia
+138,EEG with generalized slow activity
+138,oor head control
+138,brachycephaly
+138,flat occiput
+138,prominent scalp veins
+138,mandibular prognathia
+138,abnormal lip shape
+138,widely spaced teeth
+138,torus palatinus
+138,deeply set eyes
+138,oculomotor apraxia
+138,exotropia
+138,abnormality of the ears
+138,slow-growing hair
+138,light pigmentation of hair and skin
+138,prominent superficial blood vessels
+138,pectus excavatum
+138,inverted nipples
+138,tapered finger
+138,short foot
+138,increased variability in muscle fiber diameter
+138,small hand
+138,retractile testis
+138,drooling
+138,inguinal hernia
+138,abnormality fat distribution
+138,cow milk allergy
+137,global developmental delay
+137,xerostomia
+137,gastrointestinal abnormalities
+137,hearing loss
+137,abnormal sweat homeostasis
+137,failure to thrive
+137,abnormalities of the central nervous system 
+137,head shape abnormalities
+137,poor head control
+137,differences in facial features
+137,bruxism
+137,breathing issues
+137,esophagitis
+137,nail abnormalities
+137,palmoplantar keratoderma
+137,abnormal palm and foot creases
+137,heart abnormalities
+137,pectus carinatum
+137,thoracic kyphosis
+137,EMG abnormality
+137,hypotonia
+137,hip subluxation
+137,hepatic steatosis
+137,cholelithiasis
+137,dilatation of the renal pelvis
+137,inability to walk
+137,hyporeflexia
+137,babinski sign
+137,2-3 toe syndactyly
+137,joint hypermobility
+137,bone abnormalities
+137,oral aversion
+137,heat intolerance
+137,elevated serum creatine kinase
+137,abnormality of amino acid metabolism
+136,global developmental delay
+136,expressive and receptive language delay
+136,intellectual disability
+136,autism
+136,seizures
+136,macrocephaly
+136,hypotonia
+136,hyperreflexia
+136,single transverse palmar creases
+136,2-3 toe syndactyly
+136,clinodactyly of the 5th toe
+136,cataracts
+136,hypotelorism
+136,brachydactyly
+136,abnormal brain activity
+136,aggressive behavior
+135,intellectual disability
+135,brisk reflexes
+135,intention tremor on hand extension
+135,sleep disturbance
+135,speech apraxia
+135,language delay
+135,EEG with focal epileptiform discharges
+135,anxiety
+135,obesity
+135,abnormal hairline 
+135,premature graying of hair
+135,round face
+135,eye abnormalities
+135,long eyelashes
+135,abnormal eyebrows
+135,short philtrum
+135,bulbous nose
+135,short nose
+135,broad alar base
+135,short neck
+135,high palate
+135,furrowed tongue
+135,tongue fasciculations
+135,diastema
+135,delayed eruption of teeth
+135,abnormality of fingers and toes
+135,inverted nipples
+135,joint laxity
+135,pelvic girdle muscle weakness
+135,hepatomegaly
+135,metrorrhagia
+135,accelerated skeletal maturation
+135,frequent temper tantrums
+135,impulsivity
+135,hypertriglyceridemia
+135,abnormal brain electrical studies
+134,global developmental delay
+134,inability to walk
+134,absent speech
+134,seizures
+134,hypsarrhythmia
+134,short stature
+134,microcephaly
+134,bilateral sensorineural hearing impairment
+134,oral-pharyngeal dysphagia
+134,obstructive sleep apnea
+134,nonproductive cough
+134,short foot
+134,small hand
+134,medullary nephrocalcinosis
+134,chronic constipation
+134,prolonged partial thromboplastin time
+134,feeding difficulties
+133,global developmental delay
+133,absent speech
+133,failure to thrive
+133,feeding difficulties
+133,hypotonia
+133,microcephaly
+133,posterior plagiocephaly
+133,astigmatism
+133,hyperopia
+133,amblyopia
+133,ptosis
+133,epicanthus
+133,smooth long philtrum
+133,thin vermilion
+133,short neck
+133,pectus excavatum
+133,dysphagia
+133,gastroesophageal reflux
+133,kyphosis
+133,elevated serum aspartate aminotransferase
+132,postural orthostatic tachycardia syndrome
+132,edema
+132,arthralgia and hypermobility
+132,paresthesia
+132,oligomenorrhea
+132,chronic headaches
+132,raynaud’s disease
+132,Ehlers-Danlos syndrome
+132,asthma
+132,psoriasiform dermatitis
+132,thrombophlebitis
+131,delayed gross motor development
+131,delayed speech and language development
+131,central auditory processing disorder
+131,borderline intellectual disability
+131,prominence of the retrocerebellar space
+131,headache
+131,optic atrophy
+131,strabismus
+131,myopic astigmatism
+131,urinary retention
+131,chronic constipation
+131,lower limb pain
+131,achilles tendon contracture
+131,exercise intolerance
+131,heat intolerance
+131,vesicular changes in the left eye
+130,intellectual disability
+130,anxiety
+130,autistic behavior
+130,stereotypy
+130,phonophobia
+130,muscle tone abnormalities
+130,gait ataxia
+130,overactive reflexes
+130,abnormalities of eye movement
+130,heart abnormalities
+130,acute lymphoblastic leukemia
+130,lower limb asymmetry
+130,short stature
+130,large hands
+130,long fingers
+130,prominent fingertip pads
+130,toe abnormalities
+130,abnormal facial features
+130,torus palatinus
+130,widely spaced teeth
+130,microdontia
+130,lipoma
+130,osteochondromas
+130,skin abnormalities
+130,nail abnormalities
+130,liver abnormalities
+130,kidney abnormalities
+130,precocious puberty
+130,gynecomastia
+130,hypothyroidism
+130,insulin resistance
+130,hypertriglyceridemia
+130,decreased HDL cholesterol concentration
+130,hypercalciuria
+129,global developmental delay
+129,seizures
+129,dysarthria
+129,ataxia
+129,dystonia
+129,hypotonia
+129,short stature
+129,syncope
+129,micrognathia
+128,decreased plasma carnitine
+128,strabismus
+128,hashimoto thyroiditis
+128,episodic encephalopathy
+128,ataxia
+128,hypoglycemia
+128,dilated aortic root
+128,mild weakness of left arm
+128,abnormality of foot reflex
+128,lethargy when exposed to heat
+128,positive for 21-hydroxylase antibodies
+127,difficulty growing
+127,global developmental delay
+127,seizures
+127,brain abnormalities
+127,hypotonia
+127,recurrent upper and lower respiratory tract infections
+127,asthma
+127,upper airway obstruction
+127,abnormal ciliary motility
+127,episodic vomiting
+127,feeding difficulties
+127,gastroparesis
+127,gastroesophageal reflux
+127,gastritis
+127,microcephaly
+127,posteriorly rotated ears
+127,low-set ears
+126,global developmental delay
+126,absent speech
+126,hypotonia
+126,short stature
+126,obesity
+126,small head circumference
+126,nasolacrimal duct obstruction
+126,hypermetropia
+126,esotropia
+126,deep-set eyes
+126,long eyelashes
+126,chronic otitis media
+126,low-set & small ears
+126,small mouth
+126,small hands & feet
+126,sandal gap
+126,stereotypic movements
+126,chronic constipation
+126,sleep disturbance
+126,drooling
+126,deep-set toenails on big toes
+125,seizures
+125,growth hormone deficiency
+125,panhypopituitarism
+125,cognitive impairment
+125,unilateral sensorineural hearing loss
+125,alopecia
+125,nephrolithiasis
+125,gait imbalance
+125,pancytopenia
+125,hypogonadism
+125,hypothyroidism
+125,diabetes insipidus
+125,adrenal insufficiency
+125,abnormality of temperature regulation
+124,seizures
+124,global developmental delay
+124,absent speech
+124,inability to walk
+124,brain abnormalities
+124,EEG abnormality
+124,eye abnormalities
+124,spasticity
+124,dysmetria
+124,feeding difficulties
+124,obstructive sleep apnea
+124,left facial palsy
+124,high palate
+124,hyperdontia
+124,thin vermilion border
+124,dolichocephaly
+124,malar flattening
+124,long philtrum
+124,downslanted and narrow eyes
+124,downturned corners of mouth
+124,prominent forehead
+124,folded ears
+124,thick eyebrows
+124,hirsutism
+124,thick hair
+124,gastroparesis
+124,pancreatitis
+124,intestinal malrotation
+124,recurrent urinary tract infections
+124,scoliosis
+124,extra vertebra
+124,extra set of ribs
+124,abnormality of the knees
+124,overlapping toe
+124,premature adrenarche
+123,global developmental delay
+123,brain abnormalities
+123,abnormal head movements
+123,intention tremor
+123,hypotonia
+123,failure to thrive in infancy
+123,relative macrocephaly
+123,poor head control
+123,broad forehead
+123,epicanthus
+123,nystagmus
+123,hypermetropia
+123,esotropia
+123,tooth abnormalities
+123,obstructive sleep apnea
+123,chronic constipation
+122,postnatal growth retardation
+122,ketotic hypoglycemia
+122,gait disturbance
+122,hypertension
+122,abnormality of the skull
+122,astigmatism
+122,hypermetropia
+122,congenital right unilateral ptosis
+122,long upper eyelashes
+122,ecurrent otitis media
+122,bilateral cupped ears
+122,bilateral large earlobes
+122,narrow mouth
+122,thin upper lip vermilion
+122,mild retrognathia
+122,dental crowding
+122,narrow palate
+122,tracheomalacia
+122,esophagitis
+122,obstructive sleep apnea
+122,left ventricular hypertrophy
+122,heart murmur
+122,chronic gastroparesis
+122,gastroesophageal reflux
+122,hematochezia
+122,abnormality of renal artery
+122,abnormality of the kidney
+122,stenotic meatus
+122,ower limb hypertonia of the calves
+122,bilateral clinodactyly of the 5th toe
+122,2-3 toe syndactyly
+122,inguinal hernia
+121,global developmental delay
+121,expressive language delay
+121,hypotonia
+121,delayed myelination
+121,visual impairment
+121,macrocephaly
+121,hyponatremia
+121,SIADH
+121,broad forehead
+121,eye abnormalities
+121,tongue nodules
+121,myopathic facies
+121,inverted nipples
+121,genital abnormalities
+121,edema and dependent rubor of hands and feet
+120,global developmental delay
+120,elevated serum pipecolic acid
+120,seizures
+120,abnormal brain activity
+120,epileptic encephalopathy
+120,hypotonia
+120,chorea
+119,osteoporosis
+119,vertebral compression fractures
+119,anasarca
+119,adrenal insufficiency
+119,type 1 diabetes mellitus
+119,abdominal pain
+119,antinuclear antibody positivity
+118,global developmental delay
+118,intellectual disability
+118,seizures
+118,profound static encephalopathy
+118,abnormal brain findings
+118,intracranial hemorrhage
+118,strabismus
+118,cataracts
+118,high palate
+118,dental crowding
+118,trouble breathing
+118,sleep apnea
+118,scoliosis
+118,flexion contracture
+118,gastroesophageal reflux
+118,malrotation of small bowel
+118,hepatosplenomegaly
+118,hypotonia
+118,areflexia
+117,intellectual disability
+117,absent speech
+117,hypotonia
+117,poor coordination
+117,seizures
+117,brain abnormalities
+117,skull abnormalities
+117,flat forehead
+117,downslanted palpebral fissures
+117,hypermetropia
+117,low-set ears
+117,microtia
+117,wide nasal bridge
+117,smooth philtrum
+117,dental malocclusion
+117,accessory carpal bones
+117,scoliosis
+117,pes planus
+117,limited elbow movement
+117,congenital bilateral hip dislocation
+117,congenital knee dislocation
+117,gastroesophageal reflux
+117,eosinophilic esophagitis
+116,seizures
+116,intellectual disability
+116,memory impairment
+116,developmental regression
+116,expressive and receptive language delay
+116,ADHD
+116,autistic behavior
+116,anxiety
+116,insomnia
+116,short stature
+116,hypotonia
+116,hypertension
+116,low-set ears
+116,facial asymmetry
+116,hyperpigmented streaks
+116,increased carrying angle
+116,scoliosis
+116,vertebral wedging
+116,lower limb asymmetry
+116,genu valgum
+115,abnormal movements
+115,involuntary muscle contraction
+115,saccadic smooth pursuit
+115,dysphonia
+115,dysphagia
+115,torticollis
+115,scoliosis
+115,lumbar hyperlordosis
+115,rigidity
+115,unsteady gait
+115,impaired distal tactile sensation
+114,global developmental delay
+114,hypotonia
+114,seizures
+114,muscle weakness
+114,decreased muscle mass
+114,feeding difficulties
+114,microcephaly
+114,abnormal facial shape
+114,wide mouth
+114,open mouth
+114,everted lower lip vermilion
+114,coarse facial features
+114,mandibular prognathia
+114,long philtrum
+114,prominent nose
+114,facial hirsutism
+114,broad eyebrow
+114,abnormality of the neck
+114,clinodactyly of the 5th finger
+114,pes cavus
+114,broad hallux
+114,cutis marmorata
+114,behavioral abnormality
+114,aggressive behavior
+114,abnormal temper tantrums
+113,failure to thrive
+113,feeding difficulties
+113,short stature
+113,microcephaly
+113,abnormality of the occipital bone
+113,hypoplasia of the corpus callosum
+113,square face
+113,downslanted palpebral fissures
+113,alternating esotropia
+113,opacification of the corneal stroma
+113,short nose
+113,depressed nasal bridge
+113,broad jaw
+113,adducted thumb
+113,clinodactyly of the 5th finger
+113,short metacarpal
+113,bowing of shinbones
+113,metaphyseal widening
+113,C1-C2 subluxation
+113,equinovarus deformity
+113,spine abnormalities
+113,micropenis
+113,hydronephrosis
+113,central adrenal insufficiency
+113,tissue bulge
+113,alpha-1 antitrypsin deficiency
+112,global developmental delay
+112,seizures
+112,microcephaly
+112,skull abnormalities
+112,brain abnormalities
+112,abnormal spinal cord
+112,abnormal facial features
+112,eye abnormalities
+112,sensorineural deafness
+112,heart abnormalities
+112,abnormal thumb
+112,flexion contracture of digit
+112,lower limb asymmetry
+112,hydronephrosis
+112,hypotonia
+112,feeding difficulties
+112,recurrent respiratory infections
+111,muscle weakness
+111,easy fatigability
+111,cerebellar atrophy
+111,ataxia
+111,tremor
+111,dysarthria
+111,migraine
+111,EEG abnormality
+111,ptosis
+111,nystagmus
+111,bruxism
+111,limb dysmetria
+111,sleep apnea
+110,severe intrauterine growth retardation
+110,failure to thrive
+110,absence seizures
+110,hypo and hyperpigmented skin lesions on right leg
+110,hypotonia
+110,levoscoliosis
+110,frontal bossing
+110,low-set ears
+110,dental crowding
+110,narrow palate
+110,triangular face shape
+110,global developmental delay
+110,sacral dimple
+110,abnormal palm and finger creases
+110,short proximal phalanges of fourth and fifth fingers
+110,bilateral coxa valga
+110,slender long bones
+110,hemihypotrophy of right tibia
+110,short toe
+110,premature pubarche
+110,high pain tolerance
+109,global developmental delay
+109,seizures
+109,intellectual disability
+109,periventricular leukomalacia
+109,hypotonia
+109,absent speech
+109,dysphasia
+109,nystagmus
+109,myopia
+109,increased number of teeth
+109,esophageal stricture
+109,asthma
+109,obstructive sleep apnea
+109,recurrent pneumonia
+109,excess curvature of the spine
+108,short stature
+108,skeletal dysplasia
+108,thoracic hypoplasia
+108,rhizo-meso-acromelic limb shortening
+108,differences in facial features
+108,translucent and yellow-brown color teeth
+108,hyperlordosis
+108,irregular vertebral endplates
+108,pelvic girdle bone morphology
+108,acetabulum
+108,metaphyseal dysplasia
+108,brachydactyly
+108,speech delay
+108,gross motor delay
+107,muscle weakness
+107,difficulty walking
+107,myoclonus
+107,skeletal muscle atrophy
+107,fasciculations
+107,muscle cramps
+107,abnormal muscle and nerve test
+107,abnormal lower motor neuron morphology
+107,diplopia
+107,dysphagia
+107,narrowing of cervical spine
+107,foot dorsiflexor weakness
+107,elevated serum creatine phosphokinase
+106,seizures
+106,multiple rib fractures
+106,vertebral compression fractures
+106,osteoporosis
+106,osteopenia
+106,arthralgia
+106,kyphosis
+106,nephrolithiasis
+106,toe syndactyly
+106,pes planus
+106,hypercalcemia
+106,ADHD
+105,global developmental delay
+105,epilepsy
+105,brain deterioration
+105,microcephaly
+105,neonatal hypotonia
+105,myoclonus
+105,neuropathy
+105,exotropia
+105,cortical visual impairment
+105,high palate
+105,glossoptosis
+105,inability to suck
+105,micrognathia
+105,sacral dimple
+105,genu recurvatum
+105,overlapping toe
+105,clinodactyly of the 5th toe
+105,ankle clonus
+105,congenital vertical talus
+105,edema of the dorsum of feet
+105,neonatal hypoglycemia
+104,global developmental delay
+104,dystonia
+104,stereotypy
+104,inappropriate laughter
+104,encephalopathy
+104,microcephaly
+104,decreased lacrimation
+104,autonomic dysfunction
+104,sleep disturbance
+104,hypoglycorrhachia
+104,constipation
+103,global developmental delay
+103,neonatal hypotonia
+103,abnormal brain electrical activity
+103,eye abnormalities
+103,dysarthria
+103,hyporeflexia
+103,stereotypy
+102,muscle dysfunction in GI tract
+102,large and redundant sigmoid colon
+102,chronic constipation
+102,asthma
+102,obstructive sleep apnea
+102,rathke’s cleft cyst
+101,seizures
+101,abnormal brain imaging
+101,optic nerve hypoplasia
+101,appendicular hypotonia
+101,global developmental delay
+101,autism
+101,absent speech
+101,episodic fever
+101,hyperventilation and breath holding episodes
+101,stereotypical hand wringing
+101,epicanthus
+101,microtia
+101,bruxism
+101,enlarged tonsils
+101,clinodactyly of the 5th finger
+101,metatarsus adductus
+101,hallux
+101,apnea
+101,dysplastic teeth
+101,gastroesophageal reflux
+101,constipation
+101,sleep disturbance
+100,global developmental delay
+100,delayed speech and language development
+100,low body weight for age
+100,feeding difficulties in infancy
+100,hypotonia
+100,delayed bone age
+100,joint hypermobility
+100,long face
+100,high forehead
+100,epicanthus
+100,hyperopia
+100,ankyloglossia
+100,upper lip tie
+100,genital abnormalities
+99,ARVC
+99,ADHD
+99,short philtrum
+99,type I diabetes mellitus
+99,enuresis
+99,speech apraxia
+99,learning disability
+98,spasm
+98,non-progressive muscle weakness
+98,easy fatigability
+98,muscle twitching
+98,reduced tendon reflexes
+98,pulmonary function
+98,weakness of muscles of respiration
+98,dyspnea
+98,asthma
+98,progressive forgetfulness
+98,orthostatic hypotension
+98,abnormality of the thorax
+98,myopia
+98,diplopia
+98,short philtrum
+98,heart defects
+98,restrictive cardiomyopathy
+98,short palm
+98,short distal phalanx of finger
+98,small hand
+97,spastic diplegia
+97,generalized bone demineralization
+97,scoliosis
+97,global developmental delay
+97,intellectual disability
+97,impaired toileting ability
+96,global developmental delay
+96,delayed speech and language development
+96,sacrococcygeal germ cell tumor
+96,brain abnormalities
+96,subarachnoid hemorrhage
+96,right carotid artery dilation
+96,von willebrand disease
+96,menometrorrhagia
+96,epistaxis
+96,hemihypertrophy
+96,decreased body weight
+96,anxiety
+96,headache
+96,high forehead
+96,sensorineural hearing impairment
+96,long palpebral fissures
+96,blepharospasm
+96,astigmatism
+96,myopia
+96,visual loss
+96,blurred vision
+96,abnormalities of the eye
+96,micrognathia
+96,high palate
+96,acanthosis nigricans
+96,café-au-lait spot
+96,axillary freckling
+96,hirsutism
+96,acne
+96,nevus
+96,skin tags
+96,asthma
+96,chronic hyperventilation
+96,cysts on kidney and ovary
+96,nodular regenerative hyperplasia of liver
+96,abdominal pain
+96,possible ovarian dermoid cyst
+95,global developmental delay
+95,absent speech
+95,seizures
+95,delayed gross motor development
+95,hypotonia
+95,overactive reflexes
+95,inability to walk
+95,cerebral palsy
+95,dysphagia
+95,microcephaly
+95,narrow forehead
+95,plagiocephaly
+95,cortical visual impairment
+95,astigmatism
+95,abnormality of eye movement
+95,hypermetropia
+95,posteriorly rotated ears
+95,restricted movement of tongue
+95,high palate
+95,abnormality of the heart
+95,apnea
+95,aspiration
+95,gastroesophageal reflux
+95,feeding difficulties
+95,vesicoureteral reflux
+95,hydronephrosis
+95,pyelonephritis
+95,tapered finger
+95,hip dysplasia
+95,slender long bones of the legs
+95,growth arrest lines
+94,intellectual disability
+94,absent speech
+94,global developmental delay
+94,seizures
+94,dystonia of lower extremities
+94,hyperreflexia
+94,inability to walk
+94,muscle wasting
+94,hypotonia
+94,obstructive sleep apnea
+94,tapered fingers
+94,wrist and finger flexion contracture
+94,osteopenia
+94,bilateral talipes equinovarus
+94,poor head control
+94,cerebral palsy
+94,sloping forehead
+94,posteriorly rotated ears
+94,micrognathia
+93,disproportionate tall stature
+93,slender build
+93,striae distensae
+93,osteopenia
+93,IgA deficiency
+93,seizures
+93,choroid plexus cyst
+93,intellectual disability
+93,static encephalopathy
+93,dysdiadochokinesis
+93,insomnia
+93,precocious puberty
+93,strabismus
+93,arachnodactyly
+93,small thenar eminence
+93,small hypothenar eminence
+93,gastrointestinal dysmotility
+93,scoliosis
+93,pes planus
+93,hammertoe
+92,absence seizures
+92,generalized tonic-clonic seizures
+92,EEG abnormality
+92,brain damage
+92,absent speech
+92,muscle weakness
+92,facial and truncal hypotonia
+92,lower and upper limb hypertonia
+92,urinary retention
+92,gross and fine motor delay
+92,involuntary muscle contractions
+92,bradykinesia
+92,abnormal inner ear formation
+92,hearing loss
+92,abnormal facial features
+92,platybasia
+92,sacral dimple
+92,vascular abnormalities
+92,ruptured brain aneurysm
+92,abnormal aortic morphology
+92,intermittent cervical torticollis
+92,skeletal abnormalities of the hip
+92,hemophagocytic lymphohistiocytosis
+91,progressive muscle weakness
+91,inability to walk
+91,dyspnea
+91,dysphagia
+91,facial-lingual fasciculations
+91,peripheral neuropathy
+91,areflexia
+91,distal sensory impairment
+91,muscle cramps and myopathy
+91,weight loss
+91,osteoporosis
+91,depression
+91,memory impairment
+91,migraine
+91,diplopia
+91,scoliosis
+91,hand tremor
+91,dorsiflexor weakness
+91,arthritis
+91,EMG abnormality
+90,global developmental delay
+90,delayed fine motor development
+90,delayed gross motor development
+90,delayed speech and language development
+90,moderate intellectual disability
+90,MRI abnormalities
+90,hypotonia
+90,gait ataxia
+90,oval face
+90,widely spaced teeth
+90,capillary hemangioma
+90,absent speech
+90,drooling
+89,migraine
+89,tension-type headache
+89,vertigo
+89,heart rate abnormalities
+89,hypotension
+89,low blood and fluid volume
+89,hemoglobin C trait
+89,acute kidney injury
+89,abnormal bladder function
+89,renal magnesium wasting
+89,decreased circulating renin and aldosterone levels
+89,immune system abnormality
+89,low blood sugar after exertion
+89,neutropenia with large granular lymphocytes
+89,flank pain
+89,chronic joint pain
+88,short stature
+88,decreased body weight
+88,failure to thrive
+88,increased susceptibility to fractures
+88,joint hypermobility
+88,delayed skeletal maturation
+88,short foot
+88,small hands
+88,genu valgum
+88,asymmetric face
+88,fine hair
+88,short palpebral fissure
+88,philtrum
+88,narrow vertebral interpedicular distance
+88,microcytic
+88,leukocytosis
+88,central hypothyroidism
+88,arthralgia
+88,otitis media
+87,failure to thrive
+87,GI issues
+87,nausea
+87,chronic constipation
+87,attention deficit hyperactivity disorder
+87,anxiety
+87,insomnia
+87,fatigue
+87,pain
+87,nevi
+87,abnormal facial shape
+87,anteverted ears
+87,carious teeth
+87,cupped ribs
+87,dilatation of the bladder
+87,growth delay
+87,growth hormone deficiency
+87,decreased body weight
+87,short stature
+87,malnutrition
+87,learning disability
+87,headache
+87,fever
+87,eczema
+87,poor wound healing
+87,hyperglycemia
+87,epistaxis
+87,agenesis of permanent teeth
+87,hypoplasia of dental enamel
+87,mandibular loss
+87,high pitched voice
+87,dyspnea
+87,asthma
+87,chest and abdominal pain
+87,tachycardia
+87,clinodactyly of the 5th finger
+87,long philtrum
+87,thin vermilion
+86,landau-kleffner syndrome
+86,autism
+86,obsessive-compulsive behavior
+86,sleep disturbance
+86,short stature
+86,lower limb muscle weakness
+86,gait disturbance
+86,low anterior hairline
+86,seborrheic dermatitis
+86,telecanthus
+86,broad neck
+86,hyperpigmentation of the skin
+86,café-au-lait spots
+86,hirsutism
+86,urinary and bowel incontinence
+85,global developmental delay
+85,seizures
+85,stereotypy
+85,bilateral
+85,sensorineural
+85,oral-pharyngeal dysphagia
+85,feeding difficulties
+85,blueberry muffin rash
+85,atrial septal defect
+85,ankle hypertonia
+85,muscular hypotonia of the trunk
+85,anemia
+85,congenital thrombocytopenia
+84,delayed skeletal maturation
+84,short stature
+84,growth hormone deficiency
+84,abnormality of connections between brain and spinal cord
+84,syringomyelia of cervical and thoracic spinal cord
+84,short neck
+84,eye abnormalities
+84,choanal stenosis
+84,heart abnormalities
+84,pectus carinatum
+84,omphalocele
+84,accessory spleen
+84,clinodactyly
+84,kyphosis
+84,pes planus
+84,abnormalities of urinary tract
+84,hypoplastic nipples
+83,choreoathetosis
+83,orofacial dyskinesia
+83,reduced tendon reflexes
+83,poor head control
+83,hypotonia
+83,abnormal eye movements
+83,encephalopathy
+83,EEG abnormality
+83,abnormal brain structure and brain volume loss
+83,irritability
+83,developmental regression
+83,global developmental delay
+83,brachycephaly
+83,visual impairment
+83,congenital sensorineural hearing impairment
+83,abnormal facial features
+83,nevus flammeus
+83,generalized hypopigmentation
+83,deep palmar crease
+83,broad thumb
+83,thoracolumbar kyphosis
+83,feeding difficulties
+83,gastroesophageal reflux
+82,global developmental delay
+82,intellectual disability
+82,developmental regression
+82,seizures
+82,abnormality of the brain
+82,gut motility disorder/ileostomy and gastrojejunostomy
+82,intestinal failure
+82,failure to thrive
+82,short stature
+82,delayed skeletal maturation
+82,delayed ossification of carpal bones
+82,abnormality of the metacarpal bones
+82,hypotonia
+82,hypermobility
+82,ataxia
+82,dysmetria
+82,intractable migraines
+82,fatigue
+82,anxiety
+82,memory issues
+82,visual impairment
+82,alacrima
+82,hearing loss
+82,asthma
+82,hyperpigmentation of the skin
+82,cafe-au-lait spot
+82,nevus
+82,growth arrest lines
+82,scoliosis
+82,hepatic transaminases
+82,hypoglycemia
+82,carnitine deficiency
+82,decreased mitochondrial content and mild type II atrophy found on muscle biopsy
+82,generalized amino aciduria
+82,splenomegaly
+81,erythromelalgia
+81,abnormality of vision
+81,ear pain
+81,solitary congenital hypertrophy of retinal pigment epithelium
+81,myopia
+81,limb pain
+81,nephrolithiasis
+81,migraine
+81,post-partum thyroiditis
+80,intellectual disability
+80,cerebellar atrophy
+80,dysmetria
+80,dysdiadochokinesis
+80,intention tremor
+80,gait ataxia and imbalance
+80,learning disability
+80,poor speech
+80,long palpebral fissure
+80,microtia
+80,tension-type headache
+80,abnormal fear/anxiety-related behavior
+79,global developmental delay
+79,absent speech
+79,seizures
+79,dystonia
+79,truncal ataxia
+79,spasticity
+79,frequent falls
+79,gait disturbance and imbalance
+79,lower limb hyperreflexia
+79,autism
+79,growth delay
+79,failure to thrive
+79,decreased body weight
+79,feeding difficulties
+79,malabsorption
+79,gluten intolerance
+79,hypotonia
+79,microcephaly
+79,visual impairment
+79,nystagmus
+79,strabismus
+79,esotropia
+79,amblyopia
+79,abnormal electroretinogram
+79,thick eyebrow
+79,course facial features
+79,high palate
+79,low anterior hairline
+79,poor head control
+79,arachnodactyly
+79,tapered finger
+79,joint hypermobility
+79,enuresis
+79,chronic constipation
+78,failure to thrive
+78,global developmental delay
+78,hypotonia
+78,general muscle weakness and myopathy
+78,increased muscle fatiguability
+78,type 1 muscle fiber atrophy
+78,dysphagia
+78,osteopenia
+78,aspiration
+78,bronchomalacia
+78,pneumothorax and atelectasis
+78,pleural effusion
+78,respiratory failure
+78,recurrent respiratory infections
+78,hypercapnia
+78,hypoxemia
+78,hypothyroidism
+78,ketosis
+78,lactic acidosis
+78,hemangioma
+78,round face
+78,epicanthus
+78,hypertelorism
+78,depressed nasal bridge
+78,ankyloglossia
+78,thoracic kyphoscoliosis
+78,gait imbalance
+78,poor coordination
+77,seizures
+77,epileptic encephalopathy
+77,mental deterioration
+77,dysarthria
+77,dysphagia
+77,myoclonus
+77,poor appetite
+76,developmental regression
+76,severe intellectual disability
+76,autism
+76,absent speech
+76,seizures
+76,abnormality of the anterior fontanelle
+76,low anterior hairline
+76,abnormal facial shape
+76,open mouth
+76,thick vermilion border
+76,strabismus
+76,abnormality of the pinna
+76,long fingers
+75,global developmental delay
+75,absent speech
+75,seizures
+75,brain abnormalities
+75,skull abnormalities
+75,macrocephaly
+75,sparse hair
+75,seborrheic dermatitis
+75,short stature
+75,delayed skeletal maturation
+75,failure to thrive
+75,feeding difficulties
+75,hypotonia
+75,gait disturbance
+75,jerky head movements
+75,hyper oral fixation
+75,right face fuller than left
+75,high forehead
+75,prominent forehead
+75,highly arched eyebrow
+75,bilateral epicanthus
+75,esotropia
+75,nystagmus
+75,strabismus
+75,hypertelorism
+75,ptosis
+75,low-set ears
+75,depressed nasal bridge
+75,broad nasal tip
+75,long philtrum
+75,tented upper lip vermilion
+75,high palate
+75,short chin
+75,torticollis
+75,hoarse voice
+75,soft doughy skin on hands
+75,prominent fingertip pads
+75,bilateral clinodactyly
+75,wide intermammillary distance
+75,gastroesophageal reflux
+75,abnormal distention
+74,short stature
+74,nephrocalcinosis
+74,type I diabetes mellitus
+74,abnormal eye structure
+74,visual impairment
+74,progressive sensorineural hearing loss
+74,immune system abnormalities
+74,tremor
+74,hip flexor and ankle weakness
+74,peripheral neuropathy
+74,steppage gait
+74,celiac disease
+74,adrenal insufficiency
+74,osteopenia
+74,migraine
+74,depressivity
+74,complex regional pain syndrome
+74,dental crowding
+74,difficulty speaking
+74,narrow pharynx
+74,osteoarthritis of the small joints of the hand
+73,hypertension
+73,recurrent infections
+73,reduced natural killer cell activity
+73,specific anti-polysaccharide antibody deficiency
+73,hyperhidrosis
+73,central hypotonia
+73,delayed speech and language development
+73,developmental delays
+73,EEG abnormality
+73,syncope
+73,blotching pigmentation of the skin
+73,esotropia
+73,lacrimation abnormality
+73,asthma
+73,reflux
+73,distended belly
+72,recurrent shingles and bronchopulmonary infections
+72,increased antibody levels
+72,increased white blood cell count
+72,eczema
+72,pathologic fracture
+72,high palate
+72,persistence of primary teeth
+72,pulmonary pneumatocele
+72,scoliosis
+72,onychomycosis
+71,developmental regression
+71,dystonia
+71,neurogenic bladder
+71,motor delay
+71,gait disturbance
+71,urinary and bowel incontinence
+71,muscle stiffness
+71,delayed speech and language development
+71,white matter changes in the brain
+71,dental anomalies
+71,exotropia
+71,upgoing Babinski reflex
+71,syncope
+71,flexion contracture
+71,spasticity
+71,hip dysplasia
+71,scoliosis
+71,feet turned inward
+70,short stature
+70,progeroid facial appearance
+70,lipodystrophy
+70,sensorineural hearing impairment
+70,hypothyroidism
+70,chylothorax
+70,steatorrhea
+69,recurrent skin rash
+69,immune system abnormalities
+69,myalgia
+69,striae distensae
+69,skin plaque
+69,bruising susceptibility
+69,recurrent pneumonia
+69,congenital nephrotic syndrome
+69,mild splenomegaly
+69,abdominal pain
+69,polonged whole-blood clotting time
+69,chronic fatigue
+69,thrombocytopenia
+68,ataxia
+68,tremor
+68,clumsiness
+68,global developmental delay
+68,epilepsy
+68,opsoclonus myoclonus ataxia like syndrome
+68,episodic confusion and hallucinations
+68,sleep disturbance
+68,congenital ptosis
+68,oropharyngeal dysphagia
+68,speech motor disorder with stuttering and dysarthria
+68,ulcerative colitis
+68,pancreatitis
+67,global developmental delay
+67,delayed gross motor development
+67,delayed speech and language development
+67,autism
+67,dysmetria
+67,fatigue
+67,gait imbalance
+67,toe walking
+67,poor motor coordination
+67,right muscle weakness
+67,flexion contracture
+67,spastic diplegia
+67,hypertonia
+67,frequent falls
+67,large fontanelles
+67,laryngomalacia
+67,dysphagia
+67,stridor
+67,sleep apnea
+67,otitis media
+67,allergic rhinitis
+67,narrow forehead
+67,palpebral fissures
+67,mild bilateral ptosis
+67,discoloration of the back of the eye
+67,posteriorly rotated ears
+67,right hearing impairment
+67,overfolded helix
+67,bilateral single transverse palmar creases
+67,abnormal position of hair whorl
+67,pointed chin
+67,pes planus
+67,bilateral clinodactyly of 3rd toe
+67,constipation
+67,urinary incontinence
+67,sacral dimple
+66,global developmental delay
+66,intellectual disability
+66,absent speech
+66,seizures
+66,hypotonia
+66,tethered cord
+66,lower limb muscle weakness
+66,joint laxity
+66,thick hair
+66,upslanted palpebral fissure
+66,astigmatism
+66,esotropia
+66,bulbous nose
+66,low-set ears
+66,micrognathia
+66,single transverse palmar crease
+66,thin toenails
+66,hip dysplasia
+65,proximal muscles
+65,myopathy
+65,myositis
+65,elevated serum creatine phosphokinase
+65,hypotonia
+65,gowers sign
+65,difficulty climbing stairs
+65,difficulty running
+65,gait disturbance
+65,waddling gait
+65,arrhythmia-borderline Brugada pattern
+65,moderate restrictive ventilatory defect
+65,bilateral scapular winging
+65,scoliosis
+65,lumbar hyperlordosis
+65,decreased body weight
+65,failure to thrive
+65,poor appetite
+65,feeding difficulties
+65,café-au-lait spot
+65,deep set nails
+65,pes planus
+65,broad toe
+65,elevated hepatic transaminases
+65,increased IgG level
+65,decreased serum creatine
+64,arthrogryposis multiplex congenita
+64,hypotonia
+64,osteopenia
+64,difficulty walking
+64,dysphagia
+64,hyperlordosis
+64,inguinal hernia
+64,hip dysplasia
+64,bilateral cryptorchidism
+63,global developmental delay
+63,hypotonia
+63,scapular winging
+63,gait disturbance
+63,hyperextensibility of the knee
+63,hip flexor weakness
+63,decreased/absent ankle and knee reflexes
+63,incoordination
+63,dysphagia
+63,laryngomalacia
+63,sleep disturbance
+63,macrocephaly
+63,high forehead
+63,frontal bossing
+63,macrotia
+63,retrognathia
+63,syringomyelia
+63,extra-axial cerebrospinal fluid
+63,hyperlordosis
+63,vesicoureteral reflux
+63,pes planus
+63,anxiety
+63,easy fatigability
+63,self-injurious behavior
+63,abnormal mitochondria morphology and number
+62,muscle weakness
+62,left temporal lobe injury
+62,abnormality of the brain
+62,mental deterioration
+62,episodic transient visual loss
+62,gait disturbance
+62,stroke-like episode
+62,non-epileptic seizure-like events
+62,skeletal muscle atrophy
+62,damaged nerves
+62,amblyopia
+62,lung disease
+62,pes cavus
+62,foot dorsiflexor weakness
+62,chronic pain
+62,hypertension
+61,seizures
+61,EEG with generalized epileptiform discharges
+61,intellectual disability
+61,elevated hepatic transaminases
+60,dystonia
+60,choreoathetosis
+60,spasticity
+60,paroxysmal dyskinesia
+60,bradykinesia
+60,hypertonia
+60,upper limb muscle hypertrophy
+60,difficulty walking 
+60,microcephaly
+60,low anterior hairline
+60,micrognathia
+60,dental crowding
+60,nasopharyngeal
+60,difficulty speaking
+60,scoliosis
+60,flexion contracture
+60,hyperactive patellar reflex
+60,precocious puberty
+59,global developmental delay
+59,developmental regression
+59,lethargy
+59,seizures
+59,inability to walk
+59,ataxia
+59,muscle weakness
+59,central hypotonia
+59,spasticity
+59,dysmetria
+59,postural instability
+59,immunodeficiency
+59,hypothermia
+59,eczema
+59,doughy skin
+59,sparse hair
+59,hemangioma
+59,erythema
+59,poor head control
+59,lacrimal duct stenosis
+59,visual impairment
+59,astigmatism
+59,myopia
+59,congenital bilateral ptosis
+59,cupped ear
+59,protruding ear
+59,drooling
+59,hand tremor
+59,tapered finger
+59,single transverse palmar crease
+59,asthma
+59,short stature
+59,osteopenia
+59,proximal and distal femoral metaphyseal abnormality
+59,abnormality of the tibial metaphysis
+59,babinski sign
+59,ankle clonus
+58,immune dysregulation
+58,abnormal memory B cell count
+58,decreased antibody levels
+58,antinuclear antibody positivity
+58,blood disorders
+58,hypertension
+58,abnormality of the intestine
+58,giant cell hepatitis
+58,heavy proteinuria
+57,hemiparesis
+57,dystonia
+57,myoclonus
+57,clonus
+57,hypotonia
+57,seizures
+57,mastocytosis
+57,pruritus
+57,skin rash
+57,urticaria
+57,birthmarks
+57,tall stature
+57,increased body weight
+57,overgrowth
+57,macrocephaly
+57,plagiocephaly
+57,high forehead
+57,paroxysmal involuntary eye movements
+57,high palate
+57,esophagitis
+57,dysphagia
+57,respiratory distress
+57,aspiration
+57,chronic lung disease
+57,muscle weakness
+57,single transverse palmar crease
+57,lower limb hyperreflexia
+57,gait ataxia
+56,intellectual disability
+56,seizures
+56,abnormality of the brain
+56,venous malformation
+56,hypotonia
+56,coarse facial features
+56,macrocephaly
+56,broad forehead
+56,coarse hair
+56,low anterior hairline
+56,widow’s peak
+56,epicanthus
+56,cataract
+56,myopia
+56,hearing impairment
+56,wide nose
+56,anteverted nares
+56,depressed nasal bridge
+56,concave nasal ridge
+56,deep philtrum
+56,mandibular prognathia
+56,high palate
+56,microdontia
+56,aortic dilatation
+56,scoliosis
+56,cholelithiasis
+56,hypospadias
+56,neurogenic bladder
+56,prominent fingertip pads
+56,overlapping toe
+55,generalized myoclonic seizures
+55,developmental regression
+55,progressive inability to walk
+55,brain imaging abnormalities
+55,dysarthia
+55,vocal tremor
+55,patent ductus arteriosus
+55,abnormal posturing
+55,left upper limb spasticity
+55,muscular hypotonia of the trunk
+55,bilateral dysmetria
+55,dystonia
+55,myoclonus
+55,lower limb joint contractures
+55,hyperactive deep tendon reflexes
+55,limb ataxia
+55,chronic constipation
+54,decreased body weight and muscle mass
+54,hypoplasia of the musculature
+54,microcephaly
+54,brachycephaly
+54,long and triangular face with pointed chin
+54,highly arched eyebrow
+54,low-set ears
+54,cleft palate
+54,micrognathia
+54,webbed and wide neck
+54,camptodactyly
+54,joint contracture of the hand
+54,apalasia/hypoplasia of the palmar creases
+54,pectus excavatum
+54,low-set nipples
+54,restrictive lung disease
+54,scoliosis
+54,fused cervical vertebrae
+54,knee flexion contracture
+54,labial hypoplasia
+54,ankle contracture
+54,short stature
+54,obstructive sleep apnea
+54,mitral stenosis
+54,congenital hip dysplasia
+54,club feet
+54,hypertonia in lower limbs
+53,short stature
+53,autistic behavior
+53,global developmental delay
+53,intellectual disability
+53,hyperreflexia
+53,narrow forehead
+53,deeply set eye
+53,vision impairment
+53,full cheeks
+53,depressed nasal bridge
+53,short philtrum
+53,thick vermilion border
+53,u-shaped upper lip vermilion
+53,widely spaced teeth
+53,drooling
+53,downturned corners of mouth
+53,micrognathia
+53,abdominal pain
+53,poor appetite
+53,constipation
+53,meconium ileus
+53,shawl scrotum
+53,clinodactyly of the 4th and 5th toe
+53,broad end of digits and prominent finger pads
+52,global developmental delay
+52,small for gestational age
+52,poor growth
+52,stereotypic behavior
+52,easy fatigability
+52,muscular hypotonia of the trunk
+52,joint hypermobility
+52,sleep apnea
+52,sensory impairment
+52,abnormality of temperature regulation
+52,hypoglycemia
+52,anterior fontanelle
+52,frontal bossing
+52,hypoplasia of midface
+52,astigmatism
+52,hypermetropia
+52,gastroesophageal reflux
+52,dysphagia
+52,aspiration
+52,lack of appetite
+52,adipsia
+52,tachycardia
+52,pectus excavatum
+52,genu recurvatum
+52,pes planus
+52,toe syndactyly
+51,global developmental delay
+51,autism
+51,growth delay
+51,failure to thrive
+51,short stature
+51,hypotonia
+51,congenital hypothyroidism
+51,microcephaly
+51,hypoplasia of facial musculature
+51,downslanted palpebral fissures
+51,esotropia
+51,square ears
+51,micrognathia
+51,gastroesophageal reflux
+51,abnormality of the trachea
+51,snoring
+51,restless sleep
+51,mild bilateral clinodactyly
+51,patent foramen ovale
+51,renal duplication
+51,omphalocele
+51,anal stenosis
+51,pes planus
+50,hypotonia
+50,ataxia
+50,motor delay
+50,fatigue
+50,global developmental delay
+50,eczema
+50,optic atrophy
+50,drooping eyelids
+50,dysarthria
+49,developmental regression
+49,echolalia
+49,expressive language delay
+49,inappropriate behavior
+49,impulsivity
+49,difficulty concentrating
+49,headache
+49,brain abnormalities
+49,abnormal brain activity
+49,bruxism
+49,self-biting
+48,tall stature
+48,dolichocephaly
+48,occipital protuberance
+48,cutis laxa
+48,poor wound healing
+48,mild cataract
+48,iridodialysis
+48,visual loss
+48,blurred vision
+48,spontaneous rupture of the left globe
+48,skin malignancies
+48,papule
+48,heart abnormalities 
+48,hypertension
+48,syncope
+48,asthma
+48,pneumothorax
+48,COPD
+48,mild thoracolumbar scoliosis
+48,gastroesophageal reflux
+48,paraesophageal hernia
+48,steatorrhea
+48,hematochezia
+48,peptic ulcer
+48,bowel diverticulitis
+48,bladder diverticulum
+48,depression
+48,mood changes
+48,osteopenia
+48,normocytic
+48,hematuria
+48,chronic diarrhea
+48,low back pain
+48,left inguinal hernia
+47,spleen infarcts
+47,cholecystitis
+47,decreased number of small peripheral myelinated nerve fibers
+47,central adrenal insufficiency
+47,hypothyroidism
+47,dysphagia
+47,migraines
+47,blurred vision
+47,diplopia
+47,pruitus
+47,alopecia
+47,patent foramen ovale
+47,asthma
+47,atelectasis
+47,pleural effusion
+47,sleep apnea
+47,back pain
+47,right wrist weakness
+47,diarrhea
+47,abdominal pain
+47,gait imbalance
+47,paresthesia
+47,periodic limb movement syndrome
+47,thrombocytosis
+47,leukocytosis
+47,glucose intolerance
+47,hyperlipidemia
+47,vitamin deficiencies
+47,night sweats Fatigue
+47,memory impairment
+47,poor concentration
+47,arthralgia
+47,myofascial pain
+47,muscle weakness
+47,arthritis
+47,depression
+47,anxiety
+47,obesity
+47,hypertension
+46,global developmental delay
+46,seizures
+46,short stature
+46,failure to thrive
+46,increased and decreased muscle tone
+46,joint contractures
+46,clonus
+46,prominent occiput
+46,torticollis
+46,frontal bossing
+46,strabismus
+46,astigmatism
+46,Duane anomaly
+46,cortical
+46,amblyopia
+46,restrictive external ophthalmoplegia
+46,ptosis
+46,esotropia
+46,epistaxis
+46,short nose
+46,hearing impairment
+46,full cheeks
+46,cleft palate
+46,downturned corners of mouth
+46,micrognathia
+46,feeding difficulties
+46,gastroparesis
+46,polydipsia
+46,gastroesophageal reflux
+46,Mallory-Weiss tear
+46,hiatal hernia
+46,renal tubular acidosis
+46,hypoglycemia
+46,sleep apnea
+46,scoliosis
+46,hip dysplasia
+46,overlapping fingers
+46,arachnodactyly
+46,tapered finger
+46,lower limb spasticity
+46,rocker bottom feet
+46,talipes equinovarus
+45,global developmental delay
+45,ataxia
+45,broad-based gait
+45,gait ataxia
+45,phonophobia
+45,stereotypic behavior
+45,autistic behavior
+45,increased muscle fatigability
+45,hypotonia
+45,brain abnormalities
+45,abnormal facial shape
+45,smooth philtrum
+45,downturned corners of mouth
+45,dysarthria
+45,wide nasal bridge
+45,epicanthus
+45,cupped ear
+45,low-set ears
+45,recurrent otitis media
+45,middle ear effusions
+45,wide intermamillary distance
+45,clinodactyly of the 4th and 5th finger
+45,bilateral tapered fingers
+45,mosaic hyperpigmented nevi
+45,café au lait spots
+45,right tibial bowing
+45,talipes valgus
+44,ataxia
+44,spastic tetraplegia
+44,loss of ability to walk
+44,spasticity
+44,hypertonia
+44,decreased muscle mass
+44,myoclonus
+44,dementia
+44,cognitive impairment
+44,diffuse cerebral atrophy
+44,abnormality of brainstem morphology
+44,facial diplegia
+44,nystagmus
+44,exotropia
+44,nasal speech
+44,dysphagia
+44,trismus
+44,feeding difficulties
+44,gastroparesis
+44,absent speech
+44,constipation
+44,inability to fully straighten knee/foot/wrist/elbow 
+44,hyperactive patellar reflex
+44,babinski sign
+44,limited joint mobility
+43,subcutaneous angiolipomas
+43,ganglioneuroma
+43,macrocephaly
+43,migraine
+43,gastroesophageal reflux
+43,gastritis
+43,intestinal juvenile polyp
+43,sleep apnea
+43,attention deficit hyperactivity disorder
+43,memory impairment
+42,global developmental delay
+42,intellectual disability
+42,memory impairment
+42,short attention span
+42,dysarthria
+42,myoclonus
+42,vertigo
+42,sleep disturbances
+42,migraine
+42,anxiety
+42,fatigue
+42,aggressive behavior
+42,depression
+42,pain
+42,brain abnormalities
+42,abnormal facial features
+42,failure to thrive
+42,short stature
+42,decreased testosterone
+42,decreased body weight
+42,abnormal skin findings
+42,hyperhidrosis
+42,myopia
+42,recurrent epistaxis
+42,abnormal teeth
+42,dysphagia
+42,gastroesophageal reflux
+42,abnormalities of the heart
+42,hypotension and hypertension
+42,abdominal pain
+42,syncope
+42,pulmonary edema
+42,respiratory failure
+42,asthma
+42,chronic constipation
+42,poor appetite
+42,nausea
+42,scoliosis and thoracolumbar scoliosis
+42,spondylolysis and spondylolisthesis
+42,increased carrying angle
+42,clinodactyly of the 5th finger
+42,myalgia
+42,hypotonia
+42,joint hypermobility
+42,gait imbalance and gait disturbance
+42,arthralgia
+42,muscle weakness
+42,osteoporosis
+42,osteopenia
+42,abnormal movements
+42,hemiparesis
+42,abnormality of the kidney
+42,abnormality of the genitals
+42,delayed puberty
+42,pes planus
+42,abnormal blood findings
+42,sleep disturbances
+42,vitamin D deficiency
+42,chronic anemia
+41,global developmental delay
+41,intellectual disability
+41,absent speech
+41,abnormal social behavior
+41,conspicuously happy disposition
+41,agitation
+41,stereotypic behavior
+41,delayed cranial suture closure
+41,periventricular leukomalacia
+41,generalized hypopigmentation
+41,downslanted palpebral fissures
+41,exotropia
+41,hypertelorism
+41,alacrima
+41,thin vermilion border
+41,broad philtrum
+41,macrotia
+41,recurrent hand flapping
+41,inguinal hernia
+41,hypotonia
+41,constipation
+41,broad-based gait
+41,2-3 toe syndactyly
+40,intellectual disability
+40,lack of insight
+40,attention deficit hyperactivity disorder
+40,depression
+40,dyskinesia
+40,apraxia
+40,poor coordination
+40,cerebral atrophy
+40,memory impairment
+40,reduced consciousness/confusion
+40,abnormality of eye movements
+40,aphasia
+40,echolalia
+40,slurred speech
+40,shuffling gait
+40,obstructive sleep apnea
+39,accelerated skeletal maturation
+39,overgrowth
+39,tall stature
+39,obesity
+39,macrocephaly
+39,hyperinsulinemia
+39,insulin resistance
+39,polyphagia
+39,acanthosis nigricans
+39,attention deficit hyperactivity disorder
+39,global developmental delay
+39,migraine
+39,hypertrophic cardiomyopathy
+39,pulmonic stenosis
+39,bradycardia
+39,sleep apnea
+39,asthma
+39,skin tags
+39,palpebral fissure
+39,gastroesophageal reflux
+39,polyuria
+39,increased urinary cortisol level
+39,pes planus
+39,increased circulating ACTH level
+39,elevated alkaline phosphatase
+38,hypotonia
+38,muscle weakness
+38,myopathic facies
+38,poor head control
+38,dyskinesia
+38,intellectual disability
+38,global developmental delay
+38,hypoglycemia
+38,failure to thrive
+38,feeding difficulties
+38,poor appetite
+38,sleep disturbance
+38,irritability
+38,abnormality of specific brain regions
+38,EEG with persistent abnormal rhythmic activity
+38,abnormality of the retina and optic disc
+38,nystagmus
+38,reduced visual acuity and cortical visual impairment
+38,exotropia
+38,ptosis
+38,stridor
+38,breathing dysregulation
+38,hand clenching
+38,decreased urine output
+37,developmental delay
+37,regression
+37,seizures
+37,hypotonia
+37,relative macrocephaly
+37,unsteady gait
+37,hypermobility
+36,developmental delay
+36,absent speech
+36,decreased body weight
+36,short stature
+36,hypotonia
+36,microcephaly
+36,cerebral hypomyelination
+36,elevated brain choline level
+36,intermittent exotropia
+35,global developmental delay
+35,motor delay
+35,delayed speech and language development
+35,speech apraxia
+35,sensory impairment
+35,infantile spasms
+35,generalized hypotonia
+35,metabolic acidosis
+35,hyperalaninemia
+35,increased serum pyruvate
+35,increased serum lactate
+35,exotropia
+35,hypoplasia of dental enamel
+35,feeding difficulties
+35,clinodactyly of the 5th finger
+35,pes planus
+34,myopathy
+34,myalgia
+34,myositis
+34,joint hypermobility
+34,muscle weakness
+34,frequent falls
+34,vertigo
+34,difficulty walking
+34,unusual manner of walking
+34,foot dorsiflexor weakness
+34,increased muscle glycogen and lipid content
+34,exercise intolerance
+34,chronic fatigue
+34,cold and heat intolerance
+34,hyperhidrosis
+34,eczema
+34,cognitive impairment
+34,anxiety
+34,decreased aerobic capacity
+34,postural hypotension with compensatory tachycardia
+34,palpitations
+34,dysautonomia
+34,gastrointestinal dysmotility
+33,progressive muscle weakness
+33,muscle fiber atrophy
+33,dysphagia
+33,exertional dyspnea
+33,respiratory insufficiency due to muscle weakness
+33,waddling gait
+33,myopathic abnormalities
+33,abnormal lactate dehydrogenase activity
+33,increased CK levels in blood
+33,elevated aldolase level
+33,elevated hepatic transaminases
+33,urinary incontinence
+32,global developmental delay
+32,ataxia
+32,hypotonia
+32,abnormal MRI findings
+32,optic nerve pallor
+32,overlapping toes
+32,dystonia
+31,developmental regression
+31,progressive encephalopathy and cerebellar ataxia
+31,EEG abnormality
+31,limb and truncal ataxia
+31,dysmetria
+31,choreoathetosis
+31,hypotonia
+31,ligamentous laxity
+31,hyperreflexia
+31,ophthalmoplegia
+31,esotropia
+31,exotropia
+31,cranial nerve VI palsy
+31,dysphagia
+31,drooling
+31,bowel and urinary incontinence
+31,constipation
+31,delayed speech and language development
+31,sleep disturbance
+30,monoclonal gammopathy
+30,skin rash associated with the fevers
+30,episodic fevers
+30,arthritis/arthralgias
+30,bone pain
+30,lymphadenopathy
+30,enlarged liver or spleen
+30,elevated white blood cell count or elevated inflammatory markers
+29,seizures
+29,cerebellar vermis and hemisphere hypoplasia
+29,delayed myelination
+29,abnormal MR spectroscopy findings
+29,developmental delay
+29,hypotonia
+29,short stature
+29,vision impairment
+29,abnormal tooth enamel
+29,gastroesophageal reflux
+29,constipation
+28,hypoglycemia
+28,developmental delay
+28,intellectual disability
+28,nonverbal
+28,saggital craniosynostosis
+28,brain abnormalities
+28,alternating exotropia
+28,hyperopia
+28,amblyopia
+28,photophobia
+28,ptosis
+28,hearing loss in left ear
+28,otitis media
+28,tracheomalacia
+28,swallowing difficulties
+28,aspiration
+28,gastroesophageal reflux
+28,wheezing
+28,tachypnea
+28,recurrent pneumonia
+28,acute sinusitis
+28,asthma
+28,hepatomegaly
+28,elevated liver enzymes and PT/PTT
+28,hypoactive deep reflexes
+28,elevated CPK muscle enzyme
+28,joint hypermobility
+28,constipation
+28,abnormal creases on palms and feet
+28,toe abnormalities
+28,fetal finger/toe tip pads
+28,leg length discrepancy
+28,flat feet
+28,hypoplastic toe nails
+28,aminoaciduria
+28,mitochondrial depletion
+28,stress-induced adrenal insufficiency
+27,hypoferremia
+27,anemia
+27,reticulocytopenia
+27,pica
+27,behavioral problems
+27,short palpebral fissure
+27,tinnitus
+27,asthma
+27,recurrent respiratory infections
+27,chronic hypertrophic gastritis
+27,lactose intolerance
+27,elevated vitamin B12 levels
+26,accelerated skeletal maturation
+26,abdominal and pelvic pain
+26,low insulin-like growth factor 1 in blood
+26,hypobetalipoproteinemia
+26,premature adrenarche
+26,increased androgen levels
+26,increased hemoglobin A1C level
+26,acanthosis nigricans
+26,increased body weight
+26,obesity
+26,anxiety
+26,panic disorder
+26,irritability
+26,depression
+26,fatigue
+26,overgrowth
+26,macrocephaly
+26,coarse facial features
+26,overfolded helix
+26,attached earlobe
+26,mandibular prognathia
+26,nevus flammeus nuchae
+26,asthma
+26,large hands
+26,clinodactyly of the 5th finger
+26,dysgraphia
+26,hepatomegaly
+26,abnormality of the uterus
+26,menorrhagia
+26,polycystic ovaries
+26,constipation
+25,global developmental delay
+25,mild intellectual disability
+25,dysarthria
+25,spastic paraparesis
+25,dystonia
+25,EEG abnormality
+25,rigidity
+25,parkinsonism
+25,no seizures
+24,developmental delay
+24,seizures
+24,hypoplasia of the corpus callosum
+24,microcephaly
+24,cortical visual impairment
+24,abnormal eye movement
+24,premature thelarche
+24,abnormal movement
+23,growth delay
+23,delayed skeletal maturation
+23,short stature
+23,global developmental delay
+23,intellectual disability
+23,seizures
+23,intention tremor
+23,ataxia
+23,broad-based gait
+23,ligamentous laxity
+23,areflexia
+23,narrow forehead
+23,brittle scalp hair
+23,hypotelorism
+23,exotropia
+23,cataracts
+23,bulbous nose
+23,sensorineural deafness
+23,narrow mouth
+23,high palate
+23,prominent palatine ridges
+23,amelogenesis imperfecta
+23,conical tooth
+23,hypoplasia of dental enamel
+23,hypodontia
+23,dysarthria
+23,heart murmur
+23,mitral valve prolapse
+23,pectus carinatum
+23,thrombocytopenia
+23,epistaxis
+23,menorrhagia
+23,talipes valgus
+22,short stature
+22,joint contractures
+22,joint and muscle pain
+22,lack of skin elasticity
+22,abnormal scarring
+22,growth hormone deficiency
+22,flat face
+22,telecanthus
+22,strabismus
+22,trismus
+22,chronic Eustachian tube dysfunction
+22,AV nodal tachycardia
+22,restrictive lung disease
+22,sleep apnea
+22,brachydactyly syndrome
+22,aseptic necrosis
+22,multiple epiphyseal dysplasia
+22,umbar kyphosis
+22,pyloric stenosis
+22,thromboembolic stroke
+22,hypoglycemia
+21,dysmetria
+21,progressive psychomotor deterioration
+21,parkinsonism
+21,hypotonia
+21,motor axonal neuropathy
+21,seizures
+21,tremor
+21,hyperactive deep tendon reflexes and hyperreflexia
+21,gait ataxia
+21,anxiety
+21,gaze-evoked and vertical nystagmus
+21,dysphagia
+21,scanning speech
+21,dysarthria
+21,atrophy/degeneration affecting the brainstem
+21,cerebral and cerebellar atrophy
+21,scoliosis
+21,abnormal cerebrospinal fluid levels
+21,abnormality of pancreas morphology
+21,constipation
+21,pes cavus
+20,arthralgia
+20,arthritis
+20,intervertebral disc degeneration
+20,involuntary limb movements
+20,anxiety
+20,sleep apnea
+20,photophobia
+20,vertigo
+20,dyspnea
+20,exercise intolerance
+20,cervical spondylosis
+20,muscle weakness
+20,flexible tissue at ends of the bone in both hands wearing down
+20,abnormality of the hip bone
+20,brachydactyly syndrome of the hands
+20,joint swelling
+20,dysphasia
+20,memory impairment
+20,sleep disturbance
+20,fatigue
+20,headache
+20,dysautonomia
+20,allergic inflammation of white blood cells in esophagus
+20,poikiloderma
+20,chronic pain
+20,emotional
+20,myoclonus
+20,gait disturbance
+20,abdominal pain
+20,nausea and vomiting
+20,heat intolerance
+20,erythrocyte macrocytosis
+19,mild developmental delay
+19,poor hand-eye coordination
+19,visual impairment
+19,strabismus
+19,nystagmus
+19,hypermelanotic macules
+19,hypotonia
+19,tibial bowing
+19,unsteady & broad-based gait
+18,muscle weakness
+18,hypotonia
+18,exercise-induced muscle fatigue
+18,myopathy and muscle fiber necrosis
+18,endomysial connective tissue
+18,waddling gait
+18,steppage gait
+18,fatigue
+18,seizures
+18,sleep apnea
+18,scoliosis
+18,hyperlordosis
+18,hyporeflexia
+18,low body weight
+18,short stature
+18,narrow and long face
+18,decreased facial expression
+18,prominent nasal bridge
+18,otitis media
+18,abnormality of the tympanic membrane
+18,mild conductive hearing impairment
+18,dysarthria
+18,speech articulation difficulties
+18,high palate
+18,submucous cleft hard palate
+18,bifid uvula
+18,dental malocclusion and anterior open bite
+18,narrow mouth
+18,retrognathia
+18,hypoplasia of the maxilla
+18,long neck
+18,chronic lung disease
+18,pleural effusion
+18,hypoventilation
+18,gastroesophageal reflux
+18,gastroparesis
+18,ventral hernia
+18,peritonitis
+18,ovarian cyst
+18,poor wound healing
+18,allergic rhinitis
+17,atopic dermatitis
+17,full-body eczema
+17,allergic rhinitis
+17,lymphadenopathy
+17,fatigue
+17,migraines
+17,vertigo
+17,hair loss
+17,seborrheic dermatitis
+17,astigmatism
+17,corneal dystrophy
+17,nyctalopia
+17,prominent corneal nerve fibers
+17,corneal stroma
+17,myopia
+17,persistence of primary teeth
+17,temporomandibular joint
+17,chest pain
+17,sinopulmonary
+17,recurrent bronchitis as a child
+17,asthma
+17,renal and ovarian cysts
+17,hepatomegaly
+17,edema of lower limbs
+17,very high IgE levels
+17,eosinophilia
+17,heat intolerance
+17,gluten and food allergies
+17,abnormal temperature regulation
+16,global developmental delay
+16,decreased body weight
+16,short stature
+16,skeletal maturation
+16,hypotonia
+16,hypermobility
+16,hyperhidrosis
+16,sleep apnea
+16,small pituitary gland
+16,deeply set eyes
+16,long eyelashes
+16,nystagmus
+16,hyperopic astigmatism
+16,persistent pupillary membrane
+16,exotropia
+16,posteriorly rotated ears
+16,otitis media
+16,underfolded helix
+16,micrognathia
+16,cleft palate
+16,dental malocclusion
+16,split uvula
+16,heart defect
+16,feeding difficulties
+16,constipation
+16,vomiting
+16,gastroesophageal reflux
+16,prominent fingertip pads
+16,broad fingertips
+16,triphalangeal thumbs
+16,clinodactyly
+16,renal cyst
+16,hypospadias
+16,hematuria
+16,urethral stenosis
+16,arthralgia
+16,aplastic/hypoplastic toenails
+16,prominent digit pads
+16,broad 1st toe
+15,global developmental delay
+15,developmental regression
+15,intellectual disability
+15,autism spectrum disorder
+15,absent speech
+15,polyphagia
+15,sleep disturbance
+15,self-mutilation and injurious behavior
+15,pica
+15,inappropriate laughter
+15,aggressive behavior
+15,impulsivity
+15,hyperactivity
+15,short attention span
+15,poor eye contact
+15,astrocytoma
+15,adrenal adenoma
+15,demyelinating brain lesions
+15,central nervous system infection
+15,seizures
+15,tall stature
+15,accelerated skeletal maturation
+15,obesity
+15,macrocephaly
+15,large forehead
+15,anteverted nares
+15,mandibular prognathia
+15,narrow mouth
+15,mesenteric
+15,transverse palmar crease
+15,(hypermobility
+15,papule on left and right elbows
+15,eczema
+15,areas of light and dark colored skin
+15,increased adipose tissue
+15,venous malformation
+15,respiratory failure
+15,atelectasis
+15,osteomyelitis
+15,hyperextensibility of the knee
+15,postural instability
+15,muscle weakness
+15,hemiparesis
+15,hypotonia
+15,hyperreflexia
+15,peripheral neuropathy
+15,gastroesophageal reflux
+15,hepatomegaly
+15,hypercholesterolemia
+15,hyperlipidemia
+15,hypothyroidism
+15,precocious puberty
+14,hypohidrosis
+14,hypotrichosis not involving scalp
+14,recurrent abscess formation
+14,triae distensae
+14,mild seborrheic dermatitis
+14,periodic lesions of the skin
+14,dermatographic urticaria
+14,microcephaly
+14,abnormality of right visual evoked potentials
+14,abnormality of right color vision
+14,blurred vision
+14,bilateral profound sensorineural hearing impairment
+14,axillary apocrine gland hypoplasia
+14,absent axillary hair
+14,tachycardia
+14,postural orthostatic tachycardia
+14,heart murmur
+14,pleural effusion
+14,esophagitis
+14,gastroesophageal reflux
+14,pyloric stenosis
+14,functional dyspepsia
+14,peritoneal abscess
+14,intermittent right flank pain believed to be associated with ‘dry kidney’
+14,abdominal pain
+14,gastritis
+14,urinary bladder inflammation
+14,polycystic ovarian syndrome
+14,fallopian tube cyst
+14,headache
+14,chronic fatigue
+14,chronic pain
+14,nausea
+14,recurrent infections
+14,recurrent pneumonia
+14,poor appetite
+14,vomiting
+14,diarrhea
+14,dehydration
+14,fever
+14,obesity
+14,vertigo
+14,scoliosis
+14,kyphosis
+14,mild nail pits
+14,deep venous thrombosis
+14,thrombocytosis
+14,increased total bilirubin
+14,prolonged prothrombin time
+14,increased serum ferritin
+14,abnormal lymphocyte count
+14,elevated hepatic transaminases
+14,elevated C-reactive protein level
+14,hypoalbuminemia
+14,factor V Leiden heterozygote
+13,muscle weakness
+13,scapular winging
+13,fasciculations and cramps
+13,significant respiratory muscle weakness on nocturnal BiPAP
+13,abnormal muscle biopsies
+13,pseudohypoaldosteronism
+13,extreme hyperkalemia
+13,balance problems
+13,cytochrome c oxidase deficiency
+13,multiple mitochondrial DNA deletions
+13,seizures
+13,diplopia on lateral gaze with opthalmoplegia
+13,second-degree AV block
+13,cardiomyopathy
+13,stage 3 thyroid cancer
+13,hypoglycaemia
+13,leukopenia
+13,lymphopenia
+13,mild anemia
+13,high levels of anti-folate antibodies
+13,elevated IgM
+13,raynaud’s disease
+13,abnormal calcification in the kidneys
+13,low urea excretion in urine
+13,high creatinine excretion in urine
+13,amino acid abnormalities
+12,developmental delay
+12,sleep disturbance
+12,decreased body weight
+12,failure to thrive
+12,short stature
+12,osteopenia
+12,decreased CSF homovanillic acid
+12,Reduced amount of creatinine/alkaline phosphatase/albumin in blood
+12,Increased testosterone hormone and immunoglobulin M in blood
+12,erythrocyte macrocytosis
+12,increased hematocrit
+12,monocytosis
+12,neutropenia
+12,hypoglycemia
+12,seizures
+12,hypsarrhythmia
+12,decrease in the areas of the brain called the cerebellar vermis and white matter
+12,narrow forehead
+12,posterior
+12,cortical visual impairment
+12,hypermetropia
+12,blue sclerae
+12,retinal pigment epithelial mottling
+12,esotropia
+12,high palate
+12,central and obstructive sleep apnea
+12,hypotonia
+12,hypoperistalsis
+12,gastroesophageal reflux
+12,constipation
+12,anteriorly placed anus
+12,premature adrenarche
+12,hemihypertrophy of lower limb
+11,sinusitis
+11,allergic rhinitis
+11,impaired temperature sensation
+11,chronic fatigue
+11,staph infections
+11,hypogammaglobulinemia
+11,abnormal antibody levels
+11,hyperlipidemia
+11,abnormal white blood cell levels
+11,abnormality of the optic nerve
+11,ocular albinism
+11,myopia
+11,nasal polyps
+11,abnormality of the Eustachian tube
+11,recurrent otitis media
+11,chronic ear pain
+11,aortic root aneurysm
+11,vasculitis
+11,tachycardia
+11,atelectasis
+11,asthma like symptoms
+11,dyspnea
+11,gastroesophageal reflux
+11,esophagitis
+11,hiatus hernia
+11,inguinal groin pain
+11,hepatosplenomegaly
+11,deep venous thrombosis
+11,joint and muscle pain
+10,stable motor polyneuropathy
+10,hypotonia
+10,dry eye
+10,exotropia
+10,myopia
+10,vocal cord paralysis
+10,oropharyngeal dysphagia
+10,sialorrhea
+10,aerophagia
+10,chronic respiratory failure
+10,atelectasis
+10,gastroesophageal reflux
+10,aryngeal cleft
+9,sinusitis
+9,exercise-induced asthma
+9,syncope
+9,allergic rhinitis
+9,acute bronchitis
+9,recurrent pneumonia
+9,hypoxemia
+9,dyslexia
+9,headache
+9,macrocephaly
+9,tinnitus
+9,otitis media
+9,epistaxis
+9,high palate
+9,small uvula
+9,acne
+9,decreased lung function
+9,chronic lung disease
+9,dyspnea
+9,chronic cough
+9,chest pain
+9,pleural effusion
+9,pleuritis
+9,lung collapse
+9,gastroesophageal reflux
+9,increased body weight
+9,mild scoliosis
+8,global developmental delay
+8,ADHD
+8,autism
+8,high pain tolerance
+8,heart defects
+8,heart murmur
+8,gastroesophageal reflux
+8,palmar creases
+8,tapered fingers
+8,triphalangeal thumbs
+8,triangular face
+8,recurrent otitis media
+8,myopia
+8,strabismus
+8,epicanthus
+8,synophrys
+8,telecanthus
+8,wide nasal bridge
+8,nasal regurgitation
+8,smooth philtrum
+8,thin upper lip
+8,submucous cleft hard palate
+8,nasal speech
+8,long toes
+8,seasonal allergies
+7,dysautonomia
+7,low cortisol
+7,orthostatic hypotension
+7,low body temperature
+7,increased blood urea nitrogen
+7,primary adrenal insufficiency/Addison disease
+7,bipolar affective disorder
+7,depression
+7,extreme fatigue
+7,migraines
+7,vertigo
+7,alacrimia
+7,decreased feeling in corneas
+7,acute atopic
+7,keratoconjunctivitis sicca
+7,acne
+7,dry skin
+7,urticaria
+7,asthma
+7,allergies to sulfa antibiotics and adhesives
+7,bruxism
+7,sleep apnea
+7,dysphagia
+7,supraventricular tachycardia
+7,achalasia
+7,gastroesophageal reflux
+7,regurgitation
+7,nausea
+7,celiac disease
+7,gluten and lactose intolerant
+7,gastroparesis
+7,constipation
+7,abdominal pain
+7,abdominal distention
+7,pyelonephritis
+7,interstitial cystitis
+7,spastic/hyperactive bladder
+7,recurrent urinary tract infections
+7,shrinking bladder
+7,slow stream
+7,urinary frequency and urgency
+7,pelvic floor myalgia
+7,dysmenorrhea
+7,myalgia
+7,joint stiffness
+6,hypotonia
+6,muscle weakness
+6,increased body weight
+6,obesity
+6,delayed motor development
+6,delayed speech and language development
+6,sensory impairment
+6,simple febrile seizures
+6,poor coordination
+6,developmental regression
+6,cow milk allergy
+6,sleep apnea
+6,eczema
+6,asthma
+6,torticollis
+6,synophrys
+6,epicanthus
+6,strabismus
+6,astigmatism
+6,anteverted nares
+6,depressed nasal bridge
+6,low-set ears
+6,chewing difficulties
+6,inverted nipples
+6,hypoplastic toenails
+6,short finger bones
+5,increased body weight
+5,tall stature
+5,macrocephaly
+5,advanced bone age
+5,muscular ventricular septal defect
+5,mild prolonged QT interval
+5,cerebral white matter atrophy
+5,glabellar hemangioma
+5,capillary hemangiomas
+5,mild hepatic steatosis
+5,transaminases
+5,febrile seizures
+5,hyperinsulinemia
+5,insulin resistance
+5,abnormality of copper homeostasis
+5,sleep apnea
+5,tracheomalacia and bronchomalacia
+5,microtia
+5,cupped and round ear
+5,high palate
+5,downslanted palpebral fissures
+5,epicanthus
+5,telecanthus
+5,ptosis
+5,abnormality of the cornea
+5,global developmental delay
+5,delayed speech and language development
+5,features of autism
+5,aggressive behaviors
+4,global developmental delay
+4,failure to thrive
+4,seizures
+4,tremors
+4,cyanotic breath-holding spells
+4,microcephaly
+4,brachycephaly
+4,cataracts in both eyes
+4,visual impairment
+4,deep set eyes
+4,prominent cheekbones
+4,possible mild hearing loss
+4,oral-pharyngeal dysphagia
+4,sleep apnea
+4,breathing dysregulation
+4,gastroesophageal reflux
+4,difficulty urinating
+4,pectus excavatum
+4,exaggerated cupid’s bow
+4,thick eyebrows
+4,long eyelashes
+4,depressed nasal bridge
+4,short neck
+4,single transverse palmar crease bilaterally
+4,clinodactyly of 5th finger bilaterally
+3,hypotonia
+3,ataxia
+3,depressed deep tendon reflexes
+3,cerebellar atrophy and hypoplasia
+3,delayed development
+3,expressive language disorder
+3,accommodative esotropia
+3,hyperopia
+2,orbital inflammation
+2,low IGG
+2,polymyositis
+2,absent thyroid
+2,bilateral congenital facial nerve palsy
+2,difficulty feeding
+2,velopharyngeal insufficiency
+2,elevated hemidiaphragm
+2,systolic hypertension
+1,cleft lip and palate
+1,atrial septal defect
+1,absent thymus
+1,no functional T-cells
+1,short neck
+1,sprengel deformity
+1,camptodactyly of the third and fourth fingers bilaterally
+1,rib abnormalities
+1,fair coarse hair
+1,ectopia pupillae
+1,hypertelorism
+1,low-set ears and cupped right ear
+1,depressed nasal bridge and tip
+1,short uvula
+1,sandal gap
+1,global developmental delay
+1,features of autism
+1,ADHD
